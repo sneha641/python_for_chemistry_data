@@ -1,0 +1,1145 @@
+Compound ID,measured log(solubility:mol/L),ESOL predicted log(solubility:mol/L),SMILES,Mol,clogP,MolecularWeight,RotatableBonds,AromaticAtoms,HeavyAtoms,AromaticProportion
+"1,1,1,2-Tetrachloroethane",-2.18,-2.794,ClCC(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6082B90>,2.5954000000000006,167.85,0,0,6,0.0
+"1,1,1-Trichloroethane",-2.0,-2.232,CC(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BF40>,2.376500000000001,133.405,0,0,5,0.0
+"1,1,2,2-Tetrachloroethane",-1.74,-2.549,ClC(Cl)C(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BED0>,2.5938,167.85,1,0,6,0.0
+"1,1,2-Trichloroethane",-1.48,-1.961,ClCC(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BE60>,2.0289,133.405,1,0,5,0.0
+"1,1,2-Trichlorotrifluoroethane",-3.04,-3.077,FC(F)(Cl)C(F)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BDF0>,2.9189,187.37500000000003,1,0,8,0.0
+"1,1-Dichloroethane",-1.29,-1.576,CC(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BD80>,1.81,98.96000000000001,0,0,4,0.0
+"1,1-Dichloroethylene",-1.64,-1.939,ClC(=C)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BD10>,1.9352,96.94399999999999,0,0,4,0.0
+"1,1-Diethoxyethane ",-0.43,-0.899,CCOC(C)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BCA0>,1.4054,118.176,4,0,8,0.0
+"1,2,3,4-Tetrachlorobenzene",-4.57,-4.546,Clc1ccc(Cl)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BC30>,4.3002,215.894,0,6,10,0.6
+"1,2,3,4-Tetrahydronapthalene",-4.37,-3.447,C1CCc2ccccc2C1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BBC0>,2.5654000000000003,132.20599999999996,0,6,10,0.6
+"1,2,3,5-Tetrachlorobenzene",-4.63,-4.621,Clc1cc(Cl)c(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BB50>,4.3002,215.894,0,6,10,0.6
+"1,2,3-Trichlorobenzene",-4.0,-4.008,Clc1cccc(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BAE0>,3.6468000000000007,181.44899999999998,0,6,9,0.6666666666666666
+"1,2,3-Trimethylbenzene ",-3.2,-3.312,Cc1cccc(C)c1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BA70>,2.611860000000001,120.195,0,6,9,0.6666666666666666
+"1,2,4,5-Tetrabromobenzene",-6.98,-6.001,Brc1cc(Br)c(Br)cc1Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609BA00>,4.7366,393.69800000000004,0,6,10,0.6
+"1,2,4,5-Tetrachlorobenzene",-5.56,-4.621,Clc1cc(Cl)c(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B8B0>,4.3002,215.894,0,6,10,0.6
+"1,2,4,5-Tetramethylbenzene",-4.59,-3.664,Cc1cc(C)c(C)cc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099CB0>,2.9202800000000018,134.22199999999998,0,6,10,0.6
+"1,2,4-tribromobenzene",-4.5,-5.144,c1(Br)c(Br)cc(Br)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB60994D0>,3.974100000000001,314.802,0,6,9,0.6666666666666666
+"1,2,4-Trichlorobenzene",-3.59,-4.083,Clc1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB60995B0>,3.6468000000000007,181.449,0,6,9,0.6666666666666666
+"1,2,4-Trimethylbenzene",-3.31,-3.343,Cc1ccc(C)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099620>,2.611860000000001,120.195,0,6,9,0.6666666666666666
+"1,2-Benzenediol",0.62,-1.635,Oc1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099690>,1.0977999999999999,110.11199999999998,0,6,8,0.75
+"1,2-Dibromobenzene",-3.5,-4.172,Brc1ccccc1Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099700>,3.2116000000000007,235.90599999999998,0,6,8,0.75
+"1,2-Dibromoethane",-1.68,-2.102,BrCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099770>,1.7762,187.862,1,0,4,0.0
+"1,2-Dichlorobenzene",-3.05,-3.482,Clc1ccccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB60997E0>,2.9934000000000003,147.00399999999996,0,6,8,0.75
+"1,2-Dichloroethane",-1.06,-1.374,ClCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099850>,1.464,98.96000000000001,1,0,4,0.0
+"1,2-Dichloropropane",-1.6,-1.794,CC(Cl)CCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB60998C0>,1.8525,112.98700000000001,1,0,5,0.0
+"1,2-Dichlorotetrafluoroethane",-2.74,-2.697,FC(F)(Cl)C(F)(F)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099930>,2.6495999999999995,170.92000000000002,1,0,8,0.0
+"1,2-Diethoxyethane ",-0.77,-0.833,CCOCCOCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB60999A0>,1.0594000000000001,118.176,5,0,8,0.0
+"1,2-Diethylbenzene",-3.28,-3.601,CCc1ccccc1CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099A10>,2.811400000000001,134.22199999999998,2,6,10,0.6
+"1,2-Dinitrobenzene",-3.1,-2.281,O=N(=O)c1ccccc1N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099A80>,1.503,168.10799999999995,2,6,12,0.5
+"1,2-Propylene oxide",-0.59,-0.358,CC1CO1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099AF0>,0.4051,58.08,0,0,4,0.0
+"1,3,5-Tribromobenzene",-5.6,-5.27,Brc1cc(Br)cc(Br)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6099B60>,3.974100000000001,314.802,0,6,9,0.6666666666666666
+"1,3,5-Trichlorobenzene",-4.48,-4.159,Clc1cc(Cl)cc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B840>,3.6468000000000007,181.449,0,6,9,0.6666666666666666
+"1,3,5-Trimethylbenzene ",-3.4,-3.375,Cc1cc(C)cc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B7D0>,2.611860000000001,120.19499999999998,0,6,9,0.6666666666666666
+"1,3,5-Trinitrobenzene",-2.89,-2.324,O=N(=O)c1cc(cc(c1)N(=O)=O)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B760>,1.4112,213.10499999999996,3,6,15,0.4
+"1,3-Benzenediol",0.81,-1.59,Oc1cccc(O)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B6F0>,1.0977999999999999,110.11199999999998,0,6,8,0.75
+"1,3-Butadiene",-1.87,-1.376,C=CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B680>,1.3584,54.09199999999999,1,0,4,0.0
+"1,3-Dibromobenzene",-3.54,-4.298,Brc1cccc(Br)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B610>,3.2116000000000007,235.90599999999998,0,6,8,0.75
+"1,3-Dichlorobenzene",-3.04,-3.558,Clc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B5A0>,2.993400000000001,147.004,0,6,8,0.75
+"1,3-Dichloropropane",-1.62,-1.618,ClCCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B530>,1.8540999999999999,112.98700000000001,2,0,5,0.0
+"1,3-diethylthiourea",-1.46,-1.028,CCNC(=S)NCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B4C0>,0.49030000000000007,132.232,2,0,8,0.0
+"1,3-Difluorobenzene",-2.0,-2.636,Fc1cccc(F)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B450>,1.9648,114.094,0,6,8,0.75
+"1,3-Dimethylnaphthalene",-4.29,-4.147,Cc1cc(C)c2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B3E0>,3.456640000000002,156.22799999999998,0,10,12,0.8333333333333334
+"1,3-Dinitrobenzene",-2.29,-2.281,O=N(=O)c1cccc(c1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B370>,1.503,168.10799999999995,2,6,12,0.5
+"1,4-Benzenediol",-0.17,-1.59,Oc1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B300>,1.0977999999999999,110.11199999999998,0,6,8,0.75
+"1,4-Cyclohexadiene",-2.06,-1.842,C1C=CCC=C1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B290>,1.8926,80.12999999999998,0,0,6,0.0
+"1,4-Dibromobenzene",-4.07,-4.298,Brc1ccc(Br)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B220>,3.2116000000000007,235.90599999999998,0,6,8,0.75
+"1,4-Dichlorobenzene",-3.27,-3.558,Clc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B1B0>,2.993400000000001,147.00400000000002,0,6,8,0.75
+"1,4-Diethylbenzene ",-3.75,-3.633,CCc1ccc(CC)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B140>,2.811400000000001,134.22199999999998,2,6,10,0.6
+"1,4-Difluorobenzene",-1.97,-2.636,Fc1ccc(F)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B0D0>,1.9647999999999999,114.094,0,6,8,0.75
+"1,4-Dimethylnaphthalene ",-4.14,-4.147,Cc1ccc(C)c2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609B060>,3.456640000000002,156.228,0,10,12,0.8333333333333334
+"1,4-Dinitrobenzene",-3.39,-2.281,O=N(=O)c1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AFF0>,1.503,168.10799999999995,2,6,12,0.5
+"1,4-Pentadiene ",-2.09,-1.758,C=CCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AF80>,1.7485,68.119,2,0,5,0.0
+"1,5-Dimethlnapthalene",-4.679,-4.147,Cc1cccc2c(C)cccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AF10>,3.456640000000002,156.228,0,10,12,0.8333333333333334
+"1,5-Hexadiene ",-2.68,-2.112,C=CCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AEA0>,2.1386000000000003,82.14599999999999,3,0,6,0.0
+"1,7-phenantroline",-2.68,-2.994,c1cnc2c(c1)ccc3ncccc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AE30>,2.7830000000000004,180.20999999999998,0,14,14,1.0
+"1,8-Cineole",-1.74,-2.579,CC12CCC(CC1)C(C)(C)O2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609ADC0>,2.7441000000000013,154.253,0,0,11,0.0
+17a-Methyltestosterone,-3.999,-4.073,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AD50>,4.269300000000004,302.4580000000001,0,0,22,0.0
+1-aminoacridine,-4.22,-3.542,Nc2cccc3nc1ccccc1cc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609ACE0>,2.970200000000001,194.23700000000002,0,14,15,0.9333333333333333
+1-Bromo-2-methylpropane,-2.43,-2.288,CC(C)CBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AC70>,2.0373,137.01999999999998,1,0,5,0.0
+1-Bromobutane,-2.37,-2.303,CCCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AC00>,2.1814,137.01999999999998,2,0,5,0.0
+1-Bromoheptane,-4.43,-3.366,CCCCCCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AB90>,3.351700000000002,179.101,5,0,8,0.0
+1-Bromohexane,-3.81,-3.012,CCCCCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AB20>,2.9616000000000016,165.074,4,0,7,0.0
+1-Bromonapthalene,-4.35,-4.434,Brc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AAB0>,3.6023000000000014,207.07,0,10,11,0.9090909090909091
+1-Bromooctane,-5.06,-3.721,CCCCCCCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609AA40>,3.741800000000003,193.128,6,0,9,0.0
+1-Bromopentane,-3.08,-2.658,CCCCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A9D0>,2.5715000000000012,151.047,3,0,6,0.0
+1-Bromopropane,-1.73,-1.949,CCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A960>,1.7913000000000001,122.993,1,0,4,0.0
+1-Butanol,0.0,-0.688,CCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A8F0>,0.7787999999999999,74.12299999999999,2,0,5,0.0
+1-Butene,-1.94,-1.655,CCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A880>,1.5824,56.108,1,0,4,0.0
+1-Butyne,-1.24,-1.092,CCC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A810>,1.0295999999999998,54.09199999999999,0,0,4,0.0
+1-Chloro-2-bromoethane,-1.32,-1.738,ClCCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A7A0>,1.6200999999999999,143.411,1,0,4,0.0
+1-Chloro-2-methylpropane,-2.0,-1.924,ClCC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A730>,1.8812,92.569,1,0,5,0.0
+1-Chlorobutane,-2.03,-1.94,CCCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A420>,2.0253,92.56899999999999,2,0,5,0.0
+1-Chloroheptane,-4.0,-3.003,CCCCCCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A3B0>,3.1956000000000016,134.65,5,0,8,0.0
+1-Chlorohexane,-3.12,-2.648,CCCCCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A340>,2.805500000000001,120.623,4,0,7,0.0
+1-Chloronapthalene,-3.93,-4.063,Clc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A2D0>,3.4932000000000016,162.61899999999997,0,10,11,0.9090909090909091
+1-Chloropentane,-2.73,-2.294,CCCCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A260>,2.415400000000001,106.596,3,0,6,0.0
+1-Chloropropane,-1.47,-1.585,CCCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB609A1F0>,1.6352,78.542,1,0,4,0.0
+1-Decanol,-3.63,-2.814,CCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2880>,3.119400000000002,158.285,8,0,11,0.0
+1-Decene,-5.51,-3.781,CCCCCCCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2810>,3.9230000000000036,140.26999999999998,7,0,10,0.0
+1-Dodecanol,-4.8,-3.523,CCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B27A0>,3.8996000000000035,186.33899999999997,10,0,13,0.0
+1-Ethylnaphthalene ,-4.17,-4.1,CCc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2730>,3.4022000000000023,156.22799999999998,1,10,12,0.8333333333333334
+1-Heptanol,-1.81,-1.751,CCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B26C0>,1.9491,116.204,5,0,8,0.0
+1-Heptene,-3.73,-2.718,CCCCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2650>,2.752700000000001,98.189,4,0,7,0.0
+1-Heptyne,-3.01,-2.155,CCCCCC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B25E0>,2.1999000000000004,96.17299999999999,3,0,7,0.0
+1-Hexadecanol,-7.0,-4.94,CCCCCCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2570>,5.460000000000006,242.44699999999992,14,0,17,0.0
+1-Hexanol,-1.24,-1.397,CCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2500>,1.559,102.17699999999999,4,0,7,0.0
+1-Hexene,-3.23,-2.364,CCCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2490>,2.3626000000000005,84.16199999999999,3,0,6,0.0
+1-Hexene-3-ol,-0.59,-1.199,CCCC(O)C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2420>,1.3334,100.16099999999999,3,0,7,0.0
+1-Hexyne ,-2.36,-1.801,CCCCC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B23B0>,1.8098,82.14599999999999,2,0,6,0.0
+1-Iodobutane,-2.96,-2.841,CCCCI,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2340>,2.2215,184.01999999999998,2,0,5,0.0
+1-Iodoheptane,-4.81,-3.904,CCCCCCCI,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B22D0>,3.3918000000000026,226.101,5,0,8,0.0
+1-Iodonapthalene,-4.55,-4.889,Ic1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2260>,3.4444000000000017,254.07000000000002,0,10,11,0.9090909090909091
+1-Iodopropane,-2.29,-2.486,CCCI,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B21F0>,1.8314,169.993,1,0,4,0.0
+1-Methylcyclohexene ,-3.27,-2.574,CC1=CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2180>,2.5067000000000004,96.17300000000002,0,0,7,0.0
+1-Methylfluorene,-5.22,-4.478,Cc1cccc2c1Cc3ccccc32,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2110>,3.566220000000002,180.25000000000003,0,12,14,0.8571428571428571
+1-Methylnaphthalene,-3.7,-3.802,Cc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B20A0>,3.148220000000002,142.201,0,10,11,0.9090909090909091
+1-Methylphenanthrene,-5.85,-4.87,Cc1cccc2c1ccc3ccccc32,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2030>,4.301420000000003,192.261,0,14,15,0.9333333333333333
+1-methyluracil,-0.807,-0.375,Cn1ccc(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1FC0>,-0.9264000000000001,126.115,0,6,9,0.6666666666666666
+1-Napthol,-2.22,-3.08,Oc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1F50>,2.5454000000000008,144.17299999999997,0,10,11,0.9090909090909091
+1-Napthylamine,-1.92,-2.721,Nc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1EE0>,2.4220000000000006,143.189,0,10,11,0.9090909090909091
+1-Nitronapthalene,-3.54,-3.414,O=N(=O)c1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1E70>,2.748000000000001,173.171,1,10,13,0.7692307692307693
+1-Nitropropane,-0.8,-0.816,CCCN(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1E00>,0.6731,89.09399999999998,2,0,6,0.0
+1-Nonanol,-3.01,-2.46,CCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1D90>,2.7293000000000016,144.258,7,0,10,0.0
+1-Nonene ,-5.05,-3.427,CCCCCCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1D20>,3.5329000000000024,126.243,6,0,9,0.0
+1-Nonyne ,-4.24,-2.864,CCCCCCCC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1CB0>,2.980100000000002,124.22699999999999,5,0,9,0.0
+1-Octadecanol,-8.4,-5.649,CCCCCCCCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1C40>,6.240200000000008,270.50099999999986,16,0,19,0.0
+1-Octanol,-2.39,-2.105,CCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1BD0>,2.3392000000000013,130.23100000000002,6,0,9,0.0
+1-Octene ,-4.44,-3.073,CCCCCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1B60>,3.142800000000002,112.216,5,0,8,0.0
+1-Octyne ,-3.66,-2.509,CCCCCCC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1AF0>,2.5900000000000007,110.19999999999999,4,0,8,0.0
+1-Pentadecanol,-6.35,-4.586,CCCCCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1A80>,5.069900000000006,228.41999999999993,13,0,16,0.0
+1-Pentanol,-0.6,-1.042,CCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1A10>,1.1689,88.14999999999999,3,0,6,0.0
+1-Pentene ,-2.68,-2.01,CCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B19A0>,1.9725,70.135,2,0,5,0.0
+1-Pentyne,-1.64,-1.446,CCCC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1930>,1.4197,68.11899999999999,1,0,5,0.0
+1-Phenylethanol,-0.92,-1.919,CC(O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B18C0>,1.7399,122.16699999999996,1,6,9,0.6666666666666666
+1-Propanol,0.62,-0.334,CCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1850>,0.3887,60.096,1,0,4,0.0
+1-Tetradecanol,-5.84,-4.231,CCCCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B17E0>,4.679800000000005,214.39299999999994,12,0,15,0.0
+"2,2',3,3',4,4',5,5',6,6'-PCB",-11.6,-9.589,Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1770>,9.887599999999999,498.66200000000026,1,12,22,0.5454545454545454
+"2,2',3,3',4,4',5,5'-PCB",-9.16,-8.468,Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1700>,8.580799999999998,429.77200000000016,1,12,20,0.6
+"2,2',3,3',4,4'-PCB",-8.01,-7.192,Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1690>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,2',3,3',5,5',6,6'-PCB",-9.15,-8.304,Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1620>,8.580799999999998,429.77200000000016,1,12,20,0.6
+"2,2',3,3',5,6-PCB",-8.6,-7.185,Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B15B0>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,2',3,3'-PCB",-7.28,-6.079,Clc1cccc(c1Cl)c2cccc(Cl)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1540>,5.967200000000002,291.99199999999996,1,12,16,0.75
+"2,2',3,4,4',5',6-PCB",-7.92,-7.898,Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B14D0>,7.9274000000000004,395.3270000000001,1,12,19,0.631578947368421
+"2,2',3,4,5,5',6-PCB",-8.94,-7.898,Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1460>,7.9274000000000004,395.3270000000001,1,12,19,0.631578947368421
+"2,2',3,4,5,5'-PCB",-7.68,-7.343,Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B13F0>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,2',3,4,5-PCB",-7.21,-6.709,Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1380>,6.620600000000001,326.437,1,12,17,0.7058823529411765
+"2,2',3,4,6-PCB",-7.43,-6.627,Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1310>,6.620600000000001,326.437,1,12,17,0.7058823529411765
+"2,2',3,5,5',6-PCB",-7.42,-7.261,Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B12A0>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,2',3,5'-PCB",-6.47,-6.155,Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1230>,5.967200000000002,291.9920000000001,1,12,16,0.75
+"2,2,3-Trimethylbutane",-4.36,-2.922,CC(C)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B11C0>,2.6885000000000012,100.20499999999998,0,0,7,0.0
+"2,2',4,4',5,5'-PCB",-8.56,-7.343,Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1150>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,2',4,4',6,6'-PCB",-8.71,-7.179,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B10E0>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,2',4,5'-PCB",-6.57,-6.23,Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1070>,5.967200000000002,291.99199999999996,1,12,16,0.75
+"2,2,4,6,6'-PCB",-7.32,-6.545,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B1000>,6.620600000000001,326.437,1,12,17,0.7058823529411765
+"2,2,4-Trimethylpentane",-4.74,-3.276,CC(C)CC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0F90>,3.0786000000000016,114.23199999999999,1,0,8,0.0
+"2,2,5-Trimethylhexane",-5.05,-3.631,CC(C)CCC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0F20>,3.468700000000003,128.259,2,0,9,0.0
+"2,2',6,6'-PCB",-7.39,-5.915,Clc1cccc(Cl)c1c2c(Cl)cccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0EB0>,5.967200000000002,291.99199999999996,1,12,16,0.75
+"2,2-Dimethyl-1-butanol",-1.04,-1.365,CCC(C)(C)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0E40>,1.4149,102.17699999999998,2,0,7,0.0
+"2,2-Dimethylbutane",-3.55,-2.584,CCC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0DD0>,2.442500000000001,86.17799999999998,0,0,6,0.0
+"2,2-Dimethylpentane",-4.36,-2.938,CCCC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0D60>,2.832600000000001,100.20499999999998,1,0,7,0.0
+"2,2-Dimethylpentanol",-1.52,-1.719,CCCC(C)(C)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0CF0>,1.8050000000000002,116.20399999999998,3,0,8,0.0
+"2,2-Dimethylpropanol",-0.4,-1.011,CC(C)(C)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0C80>,1.0248,88.14999999999999,0,0,6,0.0
+"2,2'-PCB",-5.27,-4.984,Clc1ccccc1c2ccccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0C10>,4.660400000000002,223.102,1,12,14,0.8571428571428571
+"2,3,3',4,4',5-PCB",-7.82,-7.425,Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0BA0>,7.274,360.88200000000006,1,12,18,0.6666666666666666
+"2,3,3',4,4'6-PCB",-7.66,-7.746,Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0B30>,7.9274000000000004,395.3270000000001,1,12,19,0.631578947368421
+"2,3',4,4',5-PCB",-7.39,-7.343,Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0AC0>,7.274000000000001,360.88200000000006,1,12,18,0.6666666666666666
+"2,3',4,4'-PCB",-7.8,-6.709,Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0A50>,6.620600000000001,326.437,1,12,17,0.7058823529411765
+"2,3,4,5,6-PCB",-7.92,-6.785,Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B09E0>,6.620600000000001,326.437,1,12,17,0.7058823529411765
+"2,3',4',5-PCB",-7.25,-6.312,Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0970>,5.967200000000002,291.992,1,12,16,0.75
+"2,3,4,5-Tetrachlorophenol",-3.15,-4.335,Oc1cc(Cl)c(Cl)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0900>,4.0058,231.893,0,6,11,0.5454545454545454
+"2,3,4,6-Tetrachlorophenol",-3.1,-4.203,Oc1c(Cl)cc(Cl)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0890>,4.005799999999999,231.89299999999997,0,6,11,0.5454545454545454
+"2',3,4-PCB",-6.29,-5.686,Clc1ccc(cc1)c2cccc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0820>,5.313800000000001,257.547,1,12,15,0.8
+"2,3,4'-PCB",-6.26,-5.686,Clc1ccc(cc1)c2cccc(Cl)c2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B07B0>,5.313800000000001,257.547,1,12,15,0.8
+"2,3,4-Trichlorophenol",-2.67,-3.705,Oc1ccc(Cl)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0740>,3.3524000000000003,197.448,0,6,10,0.6
+"2,3,4-Trimethylpentane",-4.8,-3.276,CC(C)C(C)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B06D0>,2.9345000000000017,114.23199999999999,2,0,8,0.0
+"2,3,5,6-Tetrachlorophenol",-3.37,-4.203,Oc1c(Cl)c(Cl)cc(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0660>,4.0058,231.893,0,6,11,0.5454545454545454
+"2,3',5-PCB",-6.01,-5.762,Clc1cccc(c1)c2cc(Cl)ccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B05F0>,5.313800000000001,257.547,1,12,15,0.8
+"2,3,5-Trichlorophenol",-2.67,-3.78,Oc1cc(Cl)cc(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0580>,3.3523999999999994,197.44799999999998,0,6,10,0.6
+"2,3,6-Trichlorophenol",-2.64,-3.572,Oc1c(Cl)ccc(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0510>,3.3523999999999994,197.44799999999998,0,6,10,0.6
+"2,3-Dichloronitrobenzene",-3.48,-3.322,O=N(=O)c1c(Cl)c(Cl)ccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B04A0>,2.901600000000001,192.00100000000003,1,6,11,0.5454545454545454
+"2,3-Dichlorophenol",-1.3,-3.144,Oc1cccc(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0430>,2.699,163.003,0,6,9,0.6666666666666666
+"2,3-Dimethyl-1,3-Butadiene",-2.4,-2.052,CC(=C)C(=C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B03C0>,2.1386000000000003,82.146,1,0,6,0.0
+"2,3-Dimethylbutane",-3.65,-2.584,CC(C)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0350>,2.2984,86.178,1,0,6,0.0
+"2,3-Dimethylnaphthalene",-4.72,-4.116,Cc1cc2ccccc2cc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B02E0>,3.456640000000002,156.22799999999998,0,10,12,0.8333333333333334
+"2,3-Dimethylpentane",-4.28,-2.938,CCC(C)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0270>,2.6885000000000012,100.20499999999998,2,0,7,0.0
+"2,3-Dimethylpyridine",0.38,-2.067,Cc1cccnc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0200>,1.69844,107.156,0,6,8,0.75
+"2,4,5-PCB",-6.27,-5.762,Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0190>,5.313800000000001,257.547,1,12,15,0.8
+"2,4',5-PCB",-6.25,-5.762,Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0120>,5.313800000000001,257.547,1,12,15,0.8
+"2,4,5-Trichlorophenol ",-2.21,-3.78,Oc1cc(Cl)c(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B00B0>,3.3524000000000003,197.448,0,6,10,0.6
+"2,4,6-PCB",-6.14,-5.604,Clc1ccc(cc1)c2c(Cl)cccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B0040>,5.313800000000001,257.547,1,12,15,0.8
+"2,4,6-Trichlorophenol",-2.34,-3.648,Oc1c(Cl)cc(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61B2960>,3.3523999999999994,197.44799999999998,0,6,10,0.6
+"2,4,6-Trimethylphenol",-2.05,-2.941,Cc1cc(C)c(O)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC5F0>,2.3174600000000005,136.194,0,6,10,0.6
+"2,4,6-Trinitrotoluene",-3.22,-2.606,Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC660>,1.7196200000000006,227.13199999999998,3,6,16,0.375
+"2,4-Dichlorophenol ",-1.55,-3.22,Oc1ccc(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC6D0>,2.699,163.003,0,6,9,0.6666666666666666
+"2,4-Dimethyl-2-pentanol ",-0.92,-1.647,CC(C)CC(C)(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC740>,1.8034,116.20399999999998,2,0,8,0.0
+"2,4-Dimethyl-3-pentanol",-1.22,-1.647,CC(C)C(O)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC7B0>,1.6593,116.20399999999998,2,0,8,0.0
+"2,4-Dimethyl-3-pentanone",-1.3,-1.752,CC(C)C(=O)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC820>,1.8675,114.18799999999997,2,0,8,0.0
+"2,4-Dimethylpentane",-4.26,-2.938,CC(C)CC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC890>,2.6885000000000012,100.20499999999998,2,0,7,0.0
+"2,4-Dimethylphenol",-1.19,-2.621,Cc1ccc(O)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC900>,2.0090399999999997,122.16699999999999,0,6,9,0.6666666666666666
+"2,4-Dimethylpyridine",0.38,-2.098,Cc1ccnc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC970>,1.69844,107.15599999999999,0,6,8,0.75
+"2,4-Dinitrotoluene",-2.82,-2.604,Cc1ccc(cc1N(=O)=O)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DC9E0>,1.8114200000000005,182.135,2,6,13,0.46153846153846156
+"2,4'-PCB",-5.28,-5.142,Clc1ccc(cc1)c2ccccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCA50>,4.660400000000002,223.102,1,12,14,0.8571428571428571
+"2,4-PCB",-5.25,-5.142,Clc1ccc(cc1)c2ccccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCAC0>,4.660400000000002,223.102,1,12,14,0.8571428571428571
+"2,6-Dichlorophenol",-1.79,-3.012,Oc1c(Cl)cccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCB30>,2.699,163.003,0,6,9,0.6666666666666666
+"2,6-Dimethylnaphthalene ",-4.89,-4.147,Cc1ccc2cc(C)ccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCBA0>,3.456640000000002,156.228,0,10,12,0.8333333333333334
+"2,6-Dimethylphenol",-1.29,-2.589,Cc1cccc(C)c1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCC10>,2.00904,122.16699999999999,0,6,9,0.6666666666666666
+"2,6-Dimethylpyridine",0.45,-2.098,Cc1cccc(C)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCC80>,1.69844,107.156,0,6,8,0.75
+"2,6-Dinitrotoluene",-3.0,-2.553,Cc1c(cccc1N(=O)=O)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCCF0>,1.8114200000000005,182.135,2,6,13,0.46153846153846156
+"2,6-PCB",-5.21,-4.984,Clc1cccc(Cl)c1c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCD60>,4.660400000000003,223.102,1,12,14,0.8571428571428571
+"2,7-dimethylquinoline",-1.94,-3.342,c2c(C)cc1nc(C)ccc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCDD0>,2.8516400000000006,157.216,0,10,12,0.8333333333333334
+2-aminoanthracene,-5.17,-3.789,Nc3ccc2cc1ccccc1cc2c3 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCE40>,3.5752000000000015,193.249,0,14,15,0.9333333333333333
+2-bromonaphthalene,-4.4,-4.434,c1c(Br)ccc2ccccc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCEB0>,3.6023000000000014,207.07000000000002,0,10,11,0.9090909090909091
+2-Bromonapthalene,-4.4,-4.434,Brc1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCF20>,3.6023000000000014,207.07,0,10,11,0.9090909090909091
+2-Bromopropane,-1.59,-1.949,CC(C)Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DCF90>,1.7897,122.993,0,0,4,0.0
+2-Bromotoluene,-2.23,-3.667,Cc1ccccc1Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD000>,2.7575200000000013,171.03699999999998,0,6,8,0.75
+2-Butanone,0.52,-0.491,CCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD070>,0.9854,72.107,1,0,5,0.0
+2-butenal,0.32,-0.604,CC=CC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD0E0>,0.7614000000000001,70.09100000000001,1,0,5,0.0
+2-Butoxyethanol,-0.42,-0.775,CCCCOCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD150>,0.7953999999999999,118.17599999999999,5,0,8,0.0
+2-Chloro-2-methylbutane,-2.51,-2.278,CCC(C)(C)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD1C0>,2.4138,106.59599999999999,1,0,6,0.0
+2-Chloroanisole,-2.46,-2.912,COc1ccccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD230>,2.3486000000000002,142.58499999999998,1,6,9,0.6666666666666666
+2-Chlorobiphenyl,-4.54,-4.528,Clc1ccccc1c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD2A0>,4.007000000000002,188.657,1,12,13,0.9230769230769231
+2-Chlorobutane,-1.96,-1.94,CCC(C)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD310>,2.0237,92.569,1,0,5,0.0
+2-Chloronapthalene,-4.14,-4.063,Clc1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD380>,3.4932000000000016,162.61899999999997,0,10,11,0.9090909090909091
+2-Chlorophenol,-1.06,-2.553,Oc1ccccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD3F0>,2.0456000000000003,128.558,0,6,8,0.75
+2-Chloropropane,-1.41,-1.585,CC(C)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD460>,1.6336,78.542,0,0,4,0.0
+2-Chlorotoluene,-3.52,-3.297,Cc1ccccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD4D0>,2.6484200000000007,126.586,0,6,8,0.75
+2-cyanoguanidine,-0.31,0.361,NC(N)=NC#N ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD540>,-1.2591199999999998,84.082,0,0,6,0.0
+2-Decanone,-3.3,-2.617,CCCCCCCCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD5B0>,3.3260000000000023,156.269,7,0,11,0.0
+2-Ethyl pyridine,0.51,-2.051,CCc1ccccn1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD620>,1.644,107.15599999999998,1,6,8,0.75
+2-Ethyl-1-butanol,-1.17,-1.381,CCC(CC)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD690>,1.4149,102.17699999999999,3,0,7,0.0
+2-Ethyl-1-hexanol,-2.11,-2.089,CCCCC(CC)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD700>,2.1951000000000005,130.231,5,0,9,0.0
+2-Ethyl-2-hexanal,-2.46,-2.081,CCCC=C(CC)C=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD770>,2.3218000000000005,126.19899999999998,4,0,9,0.0
+2-Ethylbutanal,-1.52,-1.523,CCC(CC)C=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD7E0>,1.6215,100.16099999999999,3,0,7,0.0
+2-Ethylhexanal,-2.13,-2.232,CCCCC(CC)C=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD850>,2.401700000000001,128.21499999999997,5,0,9,0.0
+2-Ethylnaphthalene,-4.29,-4.1,CCc1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD8C0>,3.4022000000000014,156.22799999999998,1,10,12,0.8333333333333334
+2-Ethyltoluene,-3.21,-3.296,CCc1ccccc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD930>,2.5574200000000005,120.19499999999996,1,6,9,0.6666666666666666
+2-Heptanol ,-1.55,-1.678,CCCCCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DD9A0>,1.9475000000000002,116.20399999999998,4,0,8,0.0
+2-Heptanone,-1.45,-1.554,CCCCCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDA10>,2.1557000000000004,114.18799999999999,4,0,8,0.0
+2-Hexanol,-0.89,-1.324,CCCCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDA80>,1.5574,102.17699999999998,3,0,7,0.0
+2-Hexanone,-0.8,-1.2,CCCCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDAF0>,1.7656,100.16099999999999,3,0,7,0.0
+2-hydroxypteridine,-1.947,-1.404,Oc2ncc1nccnc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDB60>,0.1253999999999998,148.125,0,10,11,0.9090909090909091
+2-Hydroxypyridine,1.02,-1.655,Oc1ccccn1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDBD0>,0.7871999999999999,95.101,0,6,7,0.8571428571428571
+2-Iodopropane,-2.09,-2.486,CC(C)I,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDC40>,1.8298,169.993,0,0,4,0.0
+2-Isopropyltoluene,-3.76,-3.585,CC(C)c1ccccc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDCB0>,3.118420000000002,134.22199999999995,1,6,10,0.6
+2-methoxypteridine,-1.11,-1.589,COc2ncc1nccnc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDD20>,0.42839999999999984,162.152,1,10,12,0.8333333333333334
+2-Methy-2-Butene,-2.56,-1.994,CC=C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDD90>,1.9725,70.13499999999999,0,0,5,0.0
+"2-Methyl-1,3-Butadiene ",-2.03,-1.714,CC(=C)C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDE00>,1.7485,68.11900000000001,1,0,5,0.0
+2-Methyl-1-Butene,-2.73,-1.994,CCC(=C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDE70>,1.9725,70.13499999999999,1,0,5,0.0
+2-Methyl-1-Pentene,-3.03,-2.348,CCCC(=C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDEE0>,2.3626000000000005,84.16199999999999,2,0,6,0.0
+2-Methyl-2-heptanol,-1.72,-2.017,CCCCCC(C)(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDF50>,2.3376000000000006,130.231,4,0,9,0.0
+2-Methyl-2-hexanol,-1.08,-1.663,CCCCC(C)(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DDFC0>,1.9475000000000002,116.20399999999998,3,0,8,0.0
+2-Methyl-2-pentanol,-0.49,-1.308,CCCC(C)(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE030>,1.5574,102.17699999999998,2,0,7,0.0
+2-Methyl-3-pentanol,-0.7,-1.308,CCC(O)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE0A0>,1.4133,102.17699999999999,2,0,7,0.0
+2-Methylanthracene,-6.96,-4.87,Cc1ccc2cc3ccccc3cc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE110>,4.301420000000002,192.261,0,14,15,0.9333333333333333
+2-Methylbutan-2-ol,0.15,-0.954,CCC(C)(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE180>,1.1673,88.14999999999998,1,0,6,0.0
+2-Methylbutane,-3.18,-2.245,CCC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE1F0>,2.0524,72.151,1,0,5,0.0
+2-Methylbutanol,-0.47,-1.027,CCC(C)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE260>,1.0248,88.14999999999999,2,0,6,0.0
+2-Methylheptane,-5.08,-3.308,CCCCCC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE2D0>,3.2227000000000023,114.23199999999999,4,0,8,0.0
+2-Methylnapthalene,-3.77,-3.802,Cc1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE340>,3.148220000000001,142.201,0,10,11,0.9090909090909091
+2-Methylpentane,-3.74,-2.6,CCCC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE3B0>,2.442500000000001,86.178,2,0,6,0.0
+2-Methylpentanol,-1.11,-1.381,CCCC(C)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE420>,1.4149,102.17699999999999,3,0,7,0.0
+2-Methylphenanthrene,-5.84,-4.87,Cc1ccc2c(ccc3ccccc32)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE490>,4.301420000000003,192.261,0,14,15,0.9333333333333333
+2-Methylphenol,-0.62,-2.281,Cc1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE500>,1.70062,108.13999999999999,0,6,8,0.75
+2-Methylpropan-1-ol,0.1,-0.672,CC(C)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE570>,0.6347,74.12299999999999,1,0,5,0.0
+2-Methylpropane,-2.55,-1.891,CC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE5E0>,1.6622999999999999,58.123999999999995,0,0,4,0.0
+2-Methylpropene,-2.33,-1.573,CC(=C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE650>,1.5824,56.108000000000004,0,0,4,0.0
+2-methylpteridine,-0.12,-1.24,Cc2ncc1nccnc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE6C0>,0.7282199999999999,146.153,0,10,11,0.9090909090909091
+2-Methyltetrahydrofurane,0.11,-1.034,CC1CCCO1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE730>,1.1853,86.134,0,0,6,0.0
+2-Napthol,-2.28,-3.08,Oc1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE7A0>,2.5454,144.17299999999997,0,10,11,0.9090909090909091
+2-Nitropropane,-0.62,-0.743,CC(C)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE810>,0.6715,89.094,1,0,6,0.0
+2-Nonanol,-2.74,-2.387,CCCCCCCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE880>,2.727700000000002,144.258,6,0,10,0.0
+2-Nonanone,-2.58,-2.263,CCCCCCCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE8F0>,2.935900000000001,142.242,6,0,10,0.0
+2-Octanol,-2.09,-2.033,CCCCCCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE960>,2.3376000000000006,130.231,5,0,9,0.0
+2-Octanone,-2.05,-1.909,CCCCCCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DE9D0>,2.5458000000000007,128.21499999999997,5,0,9,0.0
+2-Pentanol,-0.29,-0.97,CCCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEA40>,1.1673,88.14999999999999,2,0,6,0.0
+2-Pentanone,-0.19,-0.846,CCCC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEAB0>,1.3755,86.13399999999999,2,0,6,0.0
+2-Phenoxyethanol,-0.7,-1.761,OCCOc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEB20>,1.0576999999999999,138.16599999999997,3,6,10,0.6
+2-Propanol,0.43,-0.261,CC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEB90>,0.38710000000000006,60.096000000000004,0,0,4,0.0
+2-pyrrolidone,1.07,0.243,O=C1CCCN1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEC00>,-0.10360000000000008,85.10600000000001,0,0,6,0.0
+2-Undecanol,-2.94,-3.096,CCCCCCCCCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEC70>,3.5079000000000025,172.312,8,0,12,0.0
+"3,3-Dimethyl-1-butanol",-0.5,-1.365,CC(C)(C)CCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DECE0>,1.4149,102.17699999999999,1,0,7,0.0
+"3,3-Dimethyl-2-butanol",-0.62,-1.292,CC(O)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DED50>,1.4133,102.17699999999999,0,0,7,0.0
+"3,3-Dimethyl-2-butanone",-0.72,-1.25,CC(=O)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEDC0>,1.6215,100.16099999999999,0,0,7,0.0
+"3,3-Dimethylpentane",-4.23,-2.938,CCC(C)(C)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEE30>,2.832600000000001,100.20499999999998,2,0,7,0.0
+"3,4-Dichloronitrobenzene",-3.2,-3.448,O=N(=O)c1cc(Cl)c(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEEA0>,2.901600000000001,192.001,1,6,11,0.5454545454545454
+"3,4-Dichlorophenol",-1.25,-3.352,Oc1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEF10>,2.6990000000000007,163.00300000000001,0,6,9,0.6666666666666666
+"3,4-Dimethylphenol",-1.38,-2.621,Cc1ccc(O)cc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEF80>,2.0090399999999997,122.16699999999999,0,6,9,0.6666666666666666
+"3,4-Dimethylpyridine",0.36,-2.067,Cc1ccncc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DEFF0>,1.69844,107.15599999999999,0,6,8,0.75
+"3,4-PCB",-6.39,-5.223,Clc1ccc(cc1Cl)c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF060>,4.660400000000002,223.102,1,12,14,0.8571428571428571
+"3,5-Dichlorophenol",-1.34,-3.428,Oc1cc(Cl)cc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF0D0>,2.699,163.003,0,6,9,0.6666666666666666
+"3,5-Dimethylphenol",-1.4,-2.652,Cc1cc(C)cc(O)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF140>,2.0090399999999997,122.16699999999997,0,6,9,0.6666666666666666
+"3,5-Dimethylpyridine",0.38,-2.098,Cc1cncc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF1B0>,1.69844,107.15599999999998,0,6,8,0.75
+3-Butanoyloxymethylphenytoin,-5.071,-3.469,O=C1N(COC(=O)CCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF220>,2.782800000000001,352.39000000000004,6,12,26,0.46153846153846156
+3-Chloroanisole,-2.78,-3.057,COc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF290>,2.3486000000000002,142.58499999999998,1,6,9,0.6666666666666666
+3-Chlorobiphenyl,-4.88,-4.685,c1c(Cl)cccc1c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF300>,4.007000000000002,188.657,1,12,13,0.9230769230769231
+3-Chlorophenol,-0.7,-2.761,Oc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF370>,2.0456,128.558,0,6,8,0.75
+3-chloropropionitrile,-0.29,-0.522,ClCCC#N ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF3E0>,1.1388800000000001,89.525,1,0,5,0.0
+3-Ethanoyloxymethylphenytoin,-4.47,-2.723,O=C1N(COC(=O)C)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF450>,2.0025999999999993,324.33600000000007,4,12,24,0.5
+3-Ethyl-3-pentanol,-0.85,-1.663,CCC(O)(CC)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF4C0>,1.9475,116.204,3,0,8,0.0
+3-Heptanol ,-1.47,-1.678,CCCCC(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF530>,1.9475,116.20399999999998,4,0,8,0.0
+3-Heptanoyloxymethylphenytoin,-6.301,-4.496,O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF5A0>,3.9531000000000027,394.471,9,12,29,0.41379310344827586
+3-Hexanol,-0.8,-1.324,CCCC(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF610>,1.5574,102.17699999999999,3,0,7,0.0
+3-Hexanone,-0.83,-1.266,CCCC(=O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF680>,1.7656,100.16099999999999,3,0,7,0.0
+3-Hexanoyloxymethylphenyltoin,-5.886,-4.153,O=C1N(COC(=O)CCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF6F0>,3.5630000000000024,380.444,8,12,28,0.42857142857142855
+3-Hexyne,-1.99,-1.933,CCC#CCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF760>,1.8098,82.14599999999999,0,0,6,0.0
+3-Methyl-1-Butene,-2.73,-1.994,CC(C)C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF7D0>,1.8284,70.135,1,0,5,0.0
+3-Methyl-2-butanol,-0.18,-0.954,CC(C)C(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF840>,1.0231999999999999,88.14999999999999,1,0,6,0.0
+3-Methyl-2-butanone,-0.12,-0.912,CC(C)C(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF8B0>,1.2314,86.13399999999999,1,0,6,0.0
+3-Methyl-2-pentanol,-0.72,-1.381,CCC(C)CCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF920>,1.4149,102.17699999999999,3,0,7,0.0
+3-Methyl-2-pentanol,-0.71,-1.308,CCC(C)CCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DF990>,1.4149,102.17699999999999,3,0,7,0.0
+3-Methyl-2-pentanone,-0.67,-1.266,CCC(C)C(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFA00>,1.6215,100.16099999999999,2,0,7,0.0
+3-Methyl-3-heptanol,-1.6,-2.017,CCCCC(C)(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFA70>,2.3376,130.23099999999997,4,0,9,0.0
+3-Methyl-3-hexanol,-0.98,-1.663,CCCC(C)(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFAE0>,1.9475,116.20399999999998,3,0,8,0.0
+3-Methyl-3-pentanol,-0.36,-1.308,CCC(C)(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFB50>,1.5574,102.17699999999998,2,0,7,0.0
+3-Methylbutan-1-ol,-0.51,-1.027,CC(C)CCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFBC0>,1.0248,88.14999999999999,2,0,6,0.0
+3-Methylcholanthrene,-7.92,-6.311,c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFC30>,5.553220000000004,268.3589999999999,0,18,21,0.8571428571428571
+3-Methylheptane,-5.16,-3.308,CCCCC(C)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFCA0>,3.2227000000000023,114.23199999999999,4,0,8,0.0
+3-methylindole,-2.42,-2.981,Cc1c[nH]c2ccccc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFD10>,2.4763200000000003,131.17799999999997,0,9,10,0.9
+3-Methylpentane,-3.68,-2.6,CCC(C)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFD80>,2.442500000000001,86.178,2,0,6,0.0
+3-Methylphenol,-0.68,-2.313,Cc1cccc(O)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFDF0>,1.7006199999999998,108.13999999999999,0,6,8,0.75
+3-Octanol,-1.98,-2.033,CCCCCC(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFE60>,2.3376,130.23099999999997,5,0,9,0.0
+3-Octanoyloxymethylphenytoin,-6.523,-4.84,O=C1N(COC(=O)CCCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFED0>,4.343200000000004,408.498,10,12,30,0.4
+3-Pentanol,-0.24,-0.97,CCC(O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61DFF40>,1.1673,88.15,2,0,6,0.0
+3-Pentanone,-0.28,-0.912,CCC(=O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFF40>,1.3755,86.134,2,0,6,0.0
+3-Pentanoyloxymethylphenytoin,-4.678,-3.81,O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFED0>,3.172900000000002,366.41700000000003,7,12,27,0.4444444444444444
+3-Propanoyloxymethylphenytoin,-4.907,-3.128,O=C1N(COC(=O)CC)C(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFE60>,2.3927000000000005,338.36300000000006,5,12,25,0.48
+"4,4'-PCB",-6.56,-5.299,Clc1ccc(cc1)c2ccc(Cl)cc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFDF0>,4.660400000000002,223.102,1,12,14,0.8571428571428571
+4-Bromophenol,-1.09,-3.132,Oc1ccc(Br)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFD80>,2.1547,173.00900000000001,0,6,8,0.75
+4-Bromotoluene,-3.19,-3.667,Cc1ccc(Br)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFD10>,2.7575200000000013,171.03700000000003,0,6,8,0.75
+4-Chloroanisole,-2.78,-3.057,COc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFCA0>,2.3486000000000002,142.585,1,6,9,0.6666666666666666
+4-Chlorophenol ,-0.7,-2.761,Oc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFC30>,2.0456,128.558,0,6,8,0.75
+4-Chlorotoluene,-3.08,-3.297,Cc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFBC0>,2.6484200000000007,126.586,0,6,8,0.75
+4-Ethyltoluene,-3.11,-3.328,CCc1ccc(C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFB50>,2.5574200000000005,120.19499999999996,1,6,9,0.6666666666666666
+4-Heptanol,-1.4,-1.678,CCCC(O)CCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFAE0>,1.9475,116.204,4,0,8,0.0
+4-Heptanone,-1.3,-1.62,CCCC(=O)CCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFA70>,2.1557000000000004,114.18799999999999,4,0,8,0.0
+4-hexylresorcinol,-2.59,-3.493,c1(O)cc(O)ccc1CCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AFA00>,3.220600000000001,194.27399999999992,5,6,14,0.42857142857142855
+4-hydroxypyridine,1.02,-1.655,Oc1ccncc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF990>,0.7871999999999999,95.10099999999998,0,6,7,0.8571428571428571
+4-Isopropyltoluene,-3.77,-3.617,CC(C)c1ccc(C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF920>,3.118420000000002,134.22199999999998,1,6,10,0.6
+4-methoxypteridine,-1.11,-1.589,COc1ncnc2nccnc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF8B0>,0.4283999999999998,162.15200000000002,1,10,12,0.8333333333333334
+4-Methyl-2-pentanol,-0.8,-1.308,CC(C)CC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF840>,1.4133,102.17699999999998,2,0,7,0.0
+4-Methyl-2-pentanone,-0.74,-1.184,CC(C)CC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF7D0>,1.6215,100.16099999999999,2,0,7,0.0
+4-Methylbiphenyl,-4.62,-4.424,Cc1ccc(cc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF760>,3.662020000000002,168.239,1,12,13,0.9230769230769231
+4-Methylpentanol,-1.14,-1.381,CC(C)CCCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF6F0>,1.4149,102.17699999999999,3,0,7,0.0
+4-methylpteridine,-0.466,-1.24,Cc1ncnc2nccnc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF680>,0.7282199999999999,146.15299999999996,0,10,11,0.9090909090909091
+4-Nitroacetanilide,-2.692,-2.219,CC(=O)Nc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF610>,1.5531999999999997,180.16299999999998,2,6,13,0.46153846153846156
+4-Pentene-1-ol,-0.15,-0.791,OCCCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF5A0>,0.9449,86.134,3,0,6,0.0
+5-(3-Methyl-2-butenyl)-5-ethylbarbital,-2.253,-2.126,O=C1NC(=O)NC(=O)C1(CC)CC=C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF530>,1.1050999999999993,224.25999999999996,3,0,16,0.0
+5-(3-Methyl-2-butenyl)-5-isoPrbarbital,-2.593,-2.465,O=C1NC(=O)NC(=O)C1(C(C)C)CC=C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF4C0>,1.3510999999999993,238.28699999999998,3,0,17,0.0
+"5,5-Diallylbarbital",-2.077,-1.471,O=C1NC(=O)NC(=O)C1(CC=C)CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF450>,0.49099999999999966,208.21699999999996,4,0,15,0.0
+"5,5-Diisopropylbarbital",-2.766,-1.942,O=C1NC(=O)NC(=O)C1(C(C)C)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF3E0>,0.6507999999999994,212.249,2,0,15,0.0
+"5,5-Dimethylbarbituric acid",-1.742,-0.556,O=C1NC(=O)NC(=O)C1(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF370>,-0.6214000000000004,156.141,0,0,11,0.0
+"5,6,7,8-tetrahydro-2-naphthol",-1.99,-3.086,Oc2ccc1CCCCc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF300>,2.271,148.205,0,6,11,0.5454545454545454
+"5,6-Dimethylchrysene",-7.01,-6.265,Cc1c(C)c2c3ccccc3ccc2c4ccccc14,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF290>,5.763040000000004,256.348,0,18,20,0.9
+5-Allyl-5-ethylbarbital,-1.614,-1.368,O=C1NC(=O)NC(=O)C1(CC)CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF220>,0.3248999999999995,196.20599999999996,3,0,14,0.0
+5-Allyl-5-isopropylbarbital,-1.708,-1.706,O=C1NC(=O)NC(=O)C1(C(C)C)CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF1B0>,0.5708999999999995,210.23299999999998,3,0,15,0.0
+5-Allyl-5-methylbarbital,-1.16,-1.013,O=C1NC(=O)NC(=O)C1(C)CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF140>,-0.06520000000000037,182.17899999999997,2,0,13,0.0
+5-Allyl-5-phenylbarbital,-2.369,-2.36,O=C1NC(=O)NC(=O)C1(CC=C)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF0D0>,0.8664999999999998,244.25,3,6,18,0.3333333333333333
+5-Ethyl-5-(3-methylbutyl)barbital,-2.658,-2.312,O=C1NC(=O)NC(=O)C1(CC)CCC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AF060>,1.1849999999999992,226.27599999999995,4,0,16,0.0
+5-Ethyl-5-isopropylbarbituric acid,-2.148,-1.603,O=C1NC(=O)NC(=O)C1(CC)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEFF0>,0.4047999999999994,198.22199999999998,2,0,14,0.0
+5-Ethyl-5-phenylbarbital,-2.322,-2.272,O=C1NC(=O)NC(=O)C1(CC)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEF80>,0.7003999999999997,232.239,2,6,17,0.35294117647058826
+5-fluorouracil,-1.077,-0.792,Fc1c[nH]c(=O)[nH]c1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEF10>,-0.7977000000000001,130.078,0,6,9,0.6666666666666666
+5-hydroxyquinoline,-2.54,-2.725,Oc1cccc2ncccc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEEA0>,1.9404,145.161,0,10,11,0.9090909090909091
+5-Methyl-5-ethylbarbituric acid,-1.228,-0.911,O=C1NC(=O)NC(=O)C1(C)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEE30>,-0.2313000000000005,170.16799999999998,1,0,12,0.0
+5-Methylchrysene,-6.59,-5.931,c1cccc2c3c(C)cc4ccccc4c3ccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEDC0>,5.454620000000004,242.321,0,18,19,0.9473684210526315
+5-methylcytosine,-1.458,-0.257,Nc1c(C)c[nH]c(=O)n1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AED50>,-0.33948000000000017,125.13099999999999,0,6,9,0.6666666666666666
+5-Nonanone,-2.58,-2.329,CCCCC(=O)CCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AECE0>,2.935900000000001,142.242,6,0,10,0.0
+6-aminochrysene,-6.2,-4.849,Nc3cc2c1ccccc1ccc2c4ccccc34 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEC70>,4.728400000000002,243.309,0,18,19,0.9473684210526315
+6-hydroxyquinoline,-2.16,-2.725,Oc2ccc1ncccc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEC00>,1.9403999999999997,145.161,0,10,11,0.9090909090909091
+6-methoxypteridine,-1.139,-1.589,COc2cnc1ncncc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEB90>,0.42839999999999984,162.15200000000002,1,10,12,0.8333333333333334
+6-Methylchrysene,-6.57,-5.931,Cc1cc2c3ccccc3ccc2c4ccccc14,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEB20>,5.454620000000004,242.321,0,18,19,0.9473684210526315
+"7,12-Dimethylbenz(a)anthracene",-7.02,-6.297,Cc1c2ccccc2c(C)c3ccc4ccccc4c13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEAB0>,5.763040000000005,256.348,0,18,20,0.9
+7-methoxypteridine,-0.91,-1.589,COc2cnc1cncnc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AEA40>,0.42839999999999984,162.152,1,10,12,0.8333333333333334
+7-methylpteridine,-0.854,-1.24,Cc2cnc1cncnc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE9D0>,0.7282199999999998,146.153,0,10,11,0.9090909090909091
+8-quinolinol,-2.42,-2.725,Oc1cccc2cccnc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE960>,1.9403999999999995,145.16099999999997,0,10,11,0.9090909090909091
+"9,10-Dimethylanthracene",-6.57,-5.228,Cc1c2ccccc2c(C)c3ccccc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE8F0>,4.609840000000004,206.28799999999998,0,14,16,0.875
+9-anthrol,-4.73,-4.148,c3ccc2c(O)c1ccccc1cc2c3 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE880>,3.6986000000000017,194.23299999999998,0,14,15,0.9333333333333333
+9-Methylanthracene,-5.89,-4.87,Cc1c2ccccc2cc3ccccc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE810>,4.301420000000003,192.261,0,14,15,0.9333333333333333
+Abate,-6.237,-6.678,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE7A0>,5.630000000000004,466.47900000000016,10,12,27,0.4444444444444444
+Acenapthene,-4.63,-3.792,C1Cc2cccc3cccc1c23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE730>,2.9384000000000015,154.21199999999996,0,10,12,0.8333333333333334
+Acenapthylene,-3.96,-3.682,C1=Cc2cccc3cccc1c23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE6C0>,3.3236000000000017,152.19599999999994,0,10,12,0.8333333333333334
+Acephate,0.54,-0.416,COP(=O)(NC(C)=O)SC ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE650>,1.24,183.16899999999998,3,0,10,0.0
+Acetamide,1.58,0.494,CC(=O)N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE5E0>,-0.5084,59.068,0,0,4,0.0
+Acetanilide,-1.33,-1.857,CC(=O)Nc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE570>,1.6449999999999998,135.16599999999997,1,6,10,0.6
+acetazolamide,-2.36,-0.793,CC(=O)Nc1nnc(s1)S(N)(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE500>,-0.8561000000000003,222.251,2,5,13,0.38461538461538464
+Acetonitrile,0.26,0.152,CC#N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE490>,0.52988,41.053,0,0,3,0.0
+Acetophenone,-1.28,-2.078,CC(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE420>,1.8892,120.15099999999995,1,6,9,0.6666666666666666
+acetyl sulfisoxazole,-3.59,-2.024,CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE3B0>,1.9493400000000003,293.34800000000007,3,11,20,0.55
+Acridine,-3.67,-3.846,c3ccc2nc1ccccc1cc2c3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE340>,3.3880000000000017,179.22199999999998,0,14,14,1.0
+Acrolein,0.57,-0.184,C=CC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE2D0>,0.37129999999999996,56.064,1,0,4,0.0
+Acrylonitrile,0.15,-0.354,C=CC#N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE260>,0.6959799999999999,53.06399999999999,0,0,4,0.0
+adenine,-2.12,-1.255,Nc1ncnc2nc[nH]c12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE1F0>,-0.0648999999999999,135.13,0,9,10,0.9
+adrenosterone,-3.48,-2.99,CC34CC(=O)C1C(CCC2=CC(=O)CCC12C)C3CCC4(=O) ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE180>,3.2664000000000017,300.3980000000001,0,0,22,0.0
+alachlor,-3.26,-3.319,CCc1cccc(CC)c1N(COC)C(=O)CCl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE110>,2.9871000000000016,269.77199999999993,6,6,18,0.3333333333333333
+aldosterone,-3.85,-3.066,CC13CCC(=O)C=C1CCC4C2CCC(C(=O)CO)C2(CC(O)C34)C=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE0A0>,1.8457,360.45000000000005,3,0,26,0.0
+Aldrin,-6.307,-5.511,ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AE030>,5.270200000000002,364.914,0,0,18,0.0
+allantoin,-1.6,0.652,NC(=O)NC1NC(=O)NC1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADFC0>,-2.1798,158.117,1,0,11,0.0
+allicin,-0.83,-2.045,C=CCS(=O)SCC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADF50>,1.7553,162.27899999999997,5,0,9,0.0
+allopurinol,-2.266,-0.84,O=c1[nH]cnc2[nH]ncc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADEE0>,-0.35380000000000006,136.114,0,9,10,0.9
+alloxan,-1.25,0.436,O=C1NC(=O)C(=O)C(=O)N1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADE70>,-2.0785,142.07,0,0,10,0.0
+alloxantin,-1.99,0.919,C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O),<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADE00>,-4.819399999999998,286.156,1,0,20,0.0
+Altretamine,-3.364,-2.492,CN(C)c1nc(nc(n1)N(C)C)N(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADD90>,0.0696000000000001,210.285,3,6,15,0.4
+Ametryn,-3.04,-3.43,CCNc1nc(NC(C)C)nc(SC)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADD20>,1.8455999999999997,227.337,5,6,15,0.4
+Amigdalin,-0.77,-0.974,OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADCB0>,-3.1080199999999985,457.4320000000001,7,6,32,0.1875
+Aminocarb,-2.36,-2.677,CNC(=O)Oc1ccc(N(C)C)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADC40>,1.77922,208.26099999999997,2,6,15,0.4
+aminopyrine,-0.364,-2.129,CN(C)c2c(C)n(C)n(c1ccccc1)c2=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADBD0>,1.55042,231.299,2,11,17,0.6470588235294118
+aminothiazole,-0.36,-1.226,Nc1nccs1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADB60>,0.7253000000000001,100.14599999999999,0,5,6,0.8333333333333334
+Amitraz,-5.47,-5.533,CN(C=Nc1ccc(C)cc1C)C=Nc2ccc(C)cc2C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADAF0>,4.871880000000004,293.41400000000004,4,12,22,0.5454545454545454
+Amitrole,0.522,-0.674,Nc1nc[nH]n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADA80>,-0.6131000000000002,84.082,0,5,6,0.8333333333333334
+Amobarbital,-2.468,-2.312,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ADA10>,1.1849999999999998,226.27599999999998,4,0,16,0.0
+ampyrone,-0.624,-1.192,Cc2c(N)c(=O)n(c1ccccc1)n2C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD9A0>,1.0666200000000003,203.245,1,11,15,0.7333333333333333
+Ancymidol,-2.596,-2.181,COc1ccc(cc1)C(O)(C2CC2)c3cncnc3 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD930>,2.1311,256.30499999999995,4,12,19,0.631578947368421
+Androstenedione,-3.69,-3.393,CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD8C0>,4.087400000000003,286.415,0,0,21,0.0
+Androsterone,-4.402,-3.882,CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD850>,3.959100000000003,290.447,0,0,21,0.0
+Anethole,-3.13,-3.254,COc1ccc(C=CC)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD7E0>,2.728300000000001,148.20499999999998,2,6,11,0.5454545454545454
+Aniline ,-0.41,-1.632,Nc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD770>,1.2688000000000001,93.12899999999999,0,6,7,0.8571428571428571
+Anilofos,-4.432,-5.106,COP(=S)(OC)SCC(=O)N(C(C)C)c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD700>,4.331900000000004,367.86,7,6,21,0.2857142857142857
+Anisole,-1.85,-2.368,COc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD690>,1.6952,108.13999999999997,1,6,8,0.75
+Anthracene,-6.35,-4.518,c1ccc2cc3ccccc3cc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD620>,3.993000000000002,178.23399999999995,0,14,14,1.0
+Anthraquinone,-5.19,-3.34,O=C1c2ccccc2C(=O)c3ccccc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD5B0>,2.4620000000000006,208.21599999999998,0,12,16,0.75
+Antipyrene,0.715,-1.733,Cc1cc(=O)n(c2ccccc2)n1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD540>,1.4844199999999999,188.23000000000002,1,11,14,0.7857142857142857
+Apazone,-3.538,-2.9,CCCC1C(=O)N3N(C1=O)c2cc(C)ccc2N=C3N(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD4D0>,2.0642199999999997,300.3620000000001,2,6,22,0.2727272727272727
+"Atovaquone(0,430mg/ml) - neutral",-5.931,-6.269,OC4=C(C1CCC(CC1)c2ccc(Cl)cc2)C(=O)c3ccccc3C4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD460>,5.505100000000005,366.84400000000016,2,12,26,0.46153846153846156
+Atratone,-2.084,-3.185,CCNc1nc(NC(C)C)nc(OC)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD3F0>,1.1322999999999996,211.26899999999998,5,6,15,0.4
+Atrazine,-3.85,-3.069,CCNc1nc(Cl)nc(NC(C)C)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD380>,1.7770999999999997,215.68800000000002,4,6,14,0.42857142857142855
+Azintamide,-1.716,-2.231,CCN(CC)C(=O)CSc1ccc(Cl)nn1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD310>,2.0904999999999996,259.762,5,6,16,0.375
+Azobenzene,-4.45,-4.034,N(=Nc1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD2A0>,4.102000000000002,182.226,2,12,14,0.8571428571428571
+Azodrin,0.651,-0.949,CNC(=O)C=C(C)OP(=O)(OC)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD230>,1.0536999999999999,223.16499999999996,5,0,14,0.0
+Barban,-4.37,-4.16,ClCC#CCOC(=O)Nc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD1C0>,3.130700000000001,258.104,2,6,16,0.375
+Barbital,-2.4,-1.265,O=C1NC(=O)NC(=O)C1(CC)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD150>,0.15879999999999939,184.19499999999996,2,0,13,0.0
+Bendroflumethiazide,-3.59,-3.741,NS(=O)(=O)c3cc2c(NC(Cc1ccccc1)NS2(=O)=O)cc3C(F)(F)F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD0E0>,1.6254,421.4220000000001,3,12,27,0.4444444444444444
+Benfluralin,-5.53,-5.205,CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD070>,4.148200000000004,335.28200000000004,7,6,23,0.2608695652173913
+Benfuracarb,-4.71,-5.133,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2CC(C)(C)Oc21)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AD000>,4.057500000000004,410.53600000000023,8,6,28,0.21428571428571427
+benodanil,-4.21,-4.245,c1c(NC(=O)c2ccccc2(I))cccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACF90>,3.5435000000000016,323.133,2,12,16,0.75
+Benomyl,-4.883,-2.902,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACF20>,2.572400000000001,290.323,4,9,21,0.42857142857142855
+Bensulide,-4.2,-4.99,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACEB0>,3.7726000000000024,397.52400000000006,10,6,23,0.2608695652173913
+Benzaldehyde,-1.19,-1.999,O=Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACE40>,1.4990999999999999,106.12399999999997,1,6,8,0.75
+Benzamide,-0.96,-1.501,NC(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACDD0>,0.7855000000000001,121.13899999999995,1,6,9,0.6666666666666666
+Benzene ,-1.64,-2.418,c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACD60>,1.6866,78.11399999999999,0,6,6,1.0
+benzhydrol,-2.55,-3.033,c1ccccc1C(O)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACCF0>,2.768300000000001,184.238,2,12,14,0.8571428571428571
+Benznidazole,-2.81,-2.321,O=C(Cn1ccnc1N(=O)=O)NCc2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACC80>,1.1077,260.253,5,11,19,0.5789473684210527
+Benzo(a)fluorene,-6.68,-5.189,C1c2ccccc2c3ccc4ccccc4c13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACC10>,4.411000000000003,216.283,0,16,17,0.9411764705882353
+Benzo(a)pyrene,-8.699,-6.007,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACBA0>,5.737200000000003,252.31599999999997,0,20,20,1.0
+Benzo(b)fluoranthene,-8.23,-6.007,c1ccc2c(c1)c3cccc4c3c2cc5ccccc54,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACB30>,5.640400000000003,252.31599999999997,0,20,20,1.0
+Benzo(b)fluorene,-8.04,-5.189,C1c2ccccc2c3cc4ccccc4cc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACAC0>,4.411000000000002,216.283,0,16,17,0.9411764705882353
+Benzo(e)pyrene,-7.8,-6.007,c1ccc2c(c1)c3cccc4ccc5cccc2c5c43,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ACA50>,5.737200000000003,252.31599999999997,0,20,20,1.0
+Benzo(j)fluoranthene,-8.0,-6.007,c1ccc2c3c(ccc2c1)c4cccc5cccc3c45,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC9E0>,5.640400000000003,252.31599999999997,0,20,20,1.0
+Benzo(k)fluoranthene,-8.49,-6.007,c1ccc2cc3c4cccc5cccc(c3cc2c1)c45,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC970>,5.640400000000003,252.31599999999997,0,20,20,1.0
+Benzo[ghi]perylene,-9.018,-6.446,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC900>,6.3282000000000025,276.338,0,22,22,1.0
+Benzocaine,-2.616,-2.383,CCOC(=O)c1ccc(N)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC890>,1.4455,165.19199999999998,2,6,12,0.5
+benzoin,-2.85,-3.148,OC(C(=O)c1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC820>,2.602900000000001,212.248,3,12,16,0.75
+Benzonitrile,-1.0,-2.03,N#Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC7B0>,1.5582799999999999,103.12399999999997,0,6,8,0.75
+Benzophenone,-3.12,-3.612,O=C(c1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC740>,2.917600000000001,182.222,2,12,14,0.8571428571428571
+benzothiazole,-1.5,-2.733,c2ccc1scnc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC6D0>,2.2962999999999996,135.191,0,9,9,1.0
+Benzotriazole,-0.78,-2.21,c2ccc1[nH]nnc1c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC660>,0.9578999999999998,119.127,0,9,9,1.0
+Benzoxazole,-1.16,-2.214,c2ccc1ocnc1c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC5F0>,1.8277999999999999,119.12299999999998,0,9,9,1.0
+Benzylchloride,-2.39,-2.887,ClCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC580>,2.4254000000000007,126.58599999999996,1,6,8,0.75
+Benzyltrifluoride,-2.51,-3.099,FC(F)(F)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC510>,2.705400000000001,146.111,0,6,10,0.6
+benzylurea,-0.95,-1.509,NC(=O)NCc1ccccc1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC4A0>,0.8548999999999998,150.18099999999998,2,6,11,0.5454545454545454
+Betamethasone-17-valerate,-4.71,-5.062,CCCCC(=O)OC3(C(C)CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC430>,3.636800000000003,476.5850000000002,6,0,34,0.0
+Bibenzyl ,-4.62,-4.301,C(Cc1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC3C0>,3.4718000000000018,182.266,3,12,14,0.8571428571428571
+Biphenyl,-4.345,-4.079,c1ccc(cc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC350>,3.353600000000002,154.21199999999996,1,12,12,1.0
+biquinoline,-5.4,-4.903,c2ccc1nc(ccc1c2)c4ccc3ccccc3n4 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC2E0>,4.450000000000003,256.308,1,20,20,1.0
+borneol,-2.32,-2.423,CC1(C)C2CCC1(C)C(O)C2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC270>,2.1935000000000002,154.253,0,0,11,0.0
+Bromacil,-2.523,-3.419,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC200>,1.5785200000000001,261.11899999999997,2,6,14,0.42857142857142855
+bromadiolone,-4.445,-7.877,OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC190>,7.183700000000006,527.4140000000002,6,28,35,0.8
+Bromobenzene,-2.55,-3.345,Brc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC120>,2.4491000000000005,157.01,0,6,7,0.8571428571428571
+Bromochloromethane,-0.89,-1.519,ClCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC0B0>,1.5776,129.384,0,0,3,0.0
+Bromodichloromethane,-1.54,-2.176,BrC(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AC040>,2.1425,163.82899999999998,0,0,4,0.0
+Bromoethane,-1.09,-1.529,CCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABF40>,1.4012,108.966,0,0,3,0.0
+Bromomethane,-0.79,-1.109,CBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABED0>,1.0110999999999999,94.939,0,0,2,0.0
+Bromophos,-6.09,-5.604,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABE60>,4.652000000000002,366.0,4,6,16,0.375
+bromopropylate,-4.93,-5.833,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABDF0>,4.3991000000000025,428.12000000000006,4,12,22,0.5454545454545454
+bromoxynil,-3.33,-3.793,Oc1c(Br)cc(C#N)cc1Br ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABD80>,2.78888,276.91499999999996,0,6,11,0.5454545454545454
+brompyrazone,-3.127,-3.005,c1ccccc1n2ncc(N)c(Br)c2(=O),<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABD10>,1.5771999999999997,266.098,1,12,15,0.8
+bupirimate,-4.16,-3.493,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABCA0>,1.74462,316.4270000000001,8,6,21,0.2857142857142857
+Butabarbital,-2.39,-1.958,O=C1NC(=O)NC(=O)C1(CC)C(C)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABC30>,0.7948999999999993,212.24899999999997,3,0,15,0.0
+butacarb,-4.24,-4.642,c1(C(C)(C)C)cc(C(C)(C)C)cc(OC(=O)NC)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABBC0>,3.999800000000003,263.381,1,6,19,0.3157894736842105
+butachlor,-4.19,-4.347,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABB50>,4.1574000000000035,311.85300000000007,9,6,21,0.2857142857142857
+butallylonal,-2.647,-2.766,CCC(C)C1(CC(Br)=C)C(=O)NC(=O)NC1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABAE0>,1.6836,303.156,4,0,17,0.0
+Butamben,-3.082,-3.039,CCCCOC(=O)c1ccc(N)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABA70>,2.2257,193.24599999999998,4,6,14,0.42857142857142855
+Butan-2-ol,0.47,-0.616,CCC(C)O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61ABA00>,0.7771999999999999,74.12299999999999,1,0,5,0.0
+Butane,-2.57,-1.907,CCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB990>,1.8064,58.123999999999995,1,0,4,0.0
+Butanethiol ,-2.18,-1.676,CCCCS,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB920>,1.7163,90.19099999999999,2,0,5,0.0
+Butethal,-1.661,-1.974,CCCCC1(CC)C(=O)NC(=O)NC1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB8B0>,0.9389999999999998,212.249,4,0,15,0.0
+Buthidazole,-1.877,-2.398,CN1CC(O)N(C1=O)c2nnc(s2)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB840>,1.0257999999999998,256.33099999999996,1,5,17,0.29411764705882354
+Buturon,-3.9,-3.199,CC(C#C)N(C)C(=O)Nc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB7D0>,2.825400000000001,236.702,2,6,16,0.375
+Butyl acetate,-1.37,-1.111,CCCCOC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB760>,0.9595,102.13299999999998,4,0,7,0.0
+Butylate,-3.68,-3.453,CCSC(=O)N(CC(C)C)CC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB6F0>,3.4735000000000023,217.378,5,0,14,0.0
+Butylbenzene,-4.06,-3.585,CCCCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB680>,3.0292000000000012,134.22199999999998,3,6,10,0.6
+Butyraldehyde,-0.01,-0.749,CCCC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB610>,0.9854,72.107,2,0,5,0.0
+Caffeine,-0.876,-1.498,Cn1cnc2n(C)c(=O)n(C)c(=O)c12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB5A0>,-1.0293,194.19399999999996,0,9,14,0.6428571428571429
+Camphor,-1.96,-2.158,CC1(C)C2CCC1(C)C(=O)C2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB530>,2.401700000000001,152.237,0,0,11,0.0
+Caproaldehyde,-1.3,-1.457,CCCCCC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB4C0>,1.7656,100.16099999999999,4,0,7,0.0
+captafol,-5.4,-4.365,ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB450>,3.520900000000001,349.06600000000014,3,0,18,0.0
+Carbanilide,-3.15,-3.611,O=C(Nc1ccccc1)Nc2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB3E0>,3.3306000000000013,212.25199999999998,2,12,16,0.75
+Carbaryl,-3.224,-3.087,CNC(=O)Oc1cccc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB370>,2.5580000000000007,201.225,1,10,15,0.6666666666666666
+Carbazole,-5.27,-3.836,c1ccc2c(c1)[nH]c3ccccc32,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB300>,3.3211000000000013,167.21099999999998,0,13,13,1.0
+Carbetamide,-1.83,-2.29,c1c(NC(=O)OC(C)C(=O)NCC)cccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB290>,1.7597,236.271,4,6,17,0.35294117647058826
+Carbofuran,-2.8,-3.05,CNC(=O)Oc1cccc2CC(C)(C)Oc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB220>,2.1183,221.25599999999994,1,6,16,0.375
+Carbophenthion,-5.736,-5.828,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB1B0>,5.420300000000004,342.875,8,6,18,0.3333333333333333
+Carboxin,-3.14,-2.927,CC1=C(SCCO1)C(=O)Nc2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB140>,2.620000000000001,235.30800000000002,2,6,16,0.375
+Carbromal,-2.68,-2.198,CCC(Br)(CC)C(=O)NC(N)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB0D0>,1.1349999999999998,237.09699999999998,3,0,12,0.0
+Carvacrol,-2.08,-3.224,c1(O)c(C)ccc(C(C)C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AB060>,2.824020000000001,150.22099999999998,1,6,11,0.5454545454545454
+Carvone,-2.06,-2.042,CC(=C)C1CC=C(C)C(=O)C1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAFF0>,2.4879000000000007,150.22099999999998,1,0,11,0.0
+chloralose,-1.84,-1.887,OCC(O)C2OC1OC(OC1C2O)C(Cl)(Cl)Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAF80>,-0.46289999999999937,309.529,2,0,17,0.0
+Chloramphenicol,-2.111,-2.613,OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAF10>,0.909,323.13200000000006,6,6,20,0.3
+Chlorazine,-4.411,-3.663,CCN(CC)c1nc(Cl)nc(n1)N(CC)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAEA0>,2.2173999999999996,257.76899999999995,6,6,17,0.35294117647058826
+Chlorbromuron,-3.924,-3.938,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAE30>,3.127600000000002,293.548,2,6,15,0.4
+Chlorbufam,-2.617,-3.629,CC(OC(=O)Nc1cccc(Cl)c1)C#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AADC0>,2.9102000000000006,223.659,2,6,15,0.4
+Chlordane,-6.86,-6.039,ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAD50>,5.682800000000001,409.7819999999999,0,0,18,0.0
+Chlordene,-5.64,-5.152,ClC2=C(Cl)C3(Cl)C1C=CCC1C2(Cl)C3(Cl)Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AACE0>,5.024200000000001,338.876,0,0,16,0.0
+chlordimeform,-2.86,-3.164,CN(C)C=Nc1ccc(Cl)cc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAC70>,2.8698200000000007,196.68099999999998,2,6,13,0.46153846153846156
+Chlorimuron-ethyl (ph 7),-4.576,-3.719,CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAC00>,1.1715999999999998,414.82700000000017,8,12,27,0.4444444444444444
+chloroacetamide,-0.02,-0.106,NC(=O)CCl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAB90>,-0.2895000000000001,93.513,1,0,5,0.0
+Chloroacetonitrile,-0.092,-0.448,ClCC#N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAB20>,0.74878,75.498,0,0,4,0.0
+Chlorobenzene,-2.38,-2.975,Clc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAAB0>,2.34,112.55899999999997,0,6,7,0.8571428571428571
+Chlorodibromethane,-1.9,-2.54,ClC(Br)Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AAA40>,2.2986000000000004,208.28,0,0,4,0.0
+Chloroethane,-1.06,-1.165,ClCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA9D0>,1.2451,64.515,0,0,3,0.0
+Chloroethylene,-1.75,-1.188,ClC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA960>,1.3687,62.499,0,0,3,0.0
+Chloropham,-3.38,-3.544,CC(C)OC(=O)Nc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA8F0>,3.2969000000000017,213.66400000000002,2,6,14,0.42857142857142855
+Chloropicrin,-2.0,-1.866,ClC(Cl)(Cl)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA880>,1.5908000000000002,164.375,0,0,7,0.0
+chloropropylate,-4.53,-5.093,c1ccc(Cl)cc1C(c2ccc(Cl)cc2)(O)C(=O)OC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA810>,4.180900000000003,339.21800000000013,4,12,22,0.5454545454545454
+Chlorothalonil,-5.64,-3.995,c1(C#N)c(Cl)c(C#N)c(Cl)c(Cl)c(Cl)1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA7A0>,4.043559999999999,265.914,0,6,14,0.42857142857142855
+chlorothiazide,-3.05,-1.752,NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA730>,-0.06089999999999923,295.72900000000004,1,6,17,0.35294117647058826
+Chlorotoluron,-3.46,-3.048,CN(C)C(=O)Nc1ccc(C)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA6C0>,2.7419200000000012,212.67999999999998,1,6,14,0.42857142857142855
+Chloroxuron,-4.89,-4.477,CN(C)C(=O)Nc2ccc(Oc1ccc(Cl)cc1)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA650>,4.225800000000003,290.75,3,12,20,0.6
+chlorpyrifos,-5.67,-4.972,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA5E0>,4.718100000000002,350.591,6,6,18,0.3333333333333333
+chlorquinox,-5.43,-4.438,c2(Cl)c(Cl)c(Cl)c1nccnc1c2(Cl) ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA570>,4.2434,267.93,0,10,14,0.7142857142857143
+Chlorthalidone,-3.451,-2.564,NS(=O)(=O)c1cc(ccc1Cl)C2(O)NC(=O)c3ccccc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA500>,0.9242000000000007,338.7720000000001,2,12,22,0.5454545454545454
+Chlortoluron,-3.483,-3.048,CN(C)C(=O)Nc1ccc(C)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA490>,2.7419200000000012,212.67999999999998,1,6,14,0.42857142857142855
+Chlorzoxazone,-2.831,-2.679,Clc2ccc1oc(=O)[nH]c1c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA420>,1.7744999999999997,169.567,0,9,11,0.8181818181818182
+Cholanthrene,-7.85,-5.942,C1Cc2c3c1cccc3cc4c2ccc5ccccc54,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA3B0>,5.244800000000004,254.33199999999997,0,18,20,0.9
+Chrysene,-8.057,-5.568,c1ccc2c(c1)ccc3c4ccccc4ccc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA340>,5.146200000000003,228.29399999999998,0,18,18,1.0
+"cis 1,2-Dichloroethylene",-1.3,-1.561,Cl\C=C/Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA2D0>,1.9352,96.94400000000002,0,0,4,0.0
+"cis-1,2-Dimethylcyclohexane",-4.3,-3.305,C/C1CCCCC1\C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA260>,2.832600000000001,112.216,0,0,8,0.0
+cis-2-Pentene,-2.54,-2.076,CC/C=C\C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA1F0>,1.9725,70.135,1,0,5,0.0
+citral,-2.06,-2.579,CC(C)=CCCC(C)=CC(=O),<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA180>,2.878000000000001,152.237,4,0,11,0.0
+Clomazone,-2.338,-3.077,CC1(C)CON(Cc2ccccc2Cl)C1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA110>,2.6400000000000006,239.702,2,6,16,0.375
+Clonazepam,-3.499,-3.707,Clc1ccccc1C2=NCC(=O)Nc3ccc(cc23)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA0A0>,3.037700000000001,315.716,2,12,22,0.5454545454545454
+Coronene,-9.332,-6.885,c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61AA030>,6.919200000000002,300.36000000000007,0,24,24,1.0
+Corticosterone,-3.24,-3.454,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9FC0>,2.666700000000002,346.46700000000016,2,0,25,0.0
+Cortisone,-3.11,-2.893,CC12CC(=O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9F50>,1.9898000000000002,360.45000000000016,2,0,26,0.0
+cortisone acetate,-4.21,-3.426,CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)CCC1(C)C2C(=O)CC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9EE0>,2.560600000000001,402.48700000000025,3,0,29,0.0
+Coumachlor,-5.839,-4.554,CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9E70>,4.263000000000003,342.7780000000001,4,16,24,0.6666666666666666
+Coumaphos,-5.382,-5.04,CCOP(=S)(OCC)Oc2ccc1oc(=O)c(Cl)c(C)c1c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9E00>,4.4311200000000035,362.77100000000013,6,10,22,0.45454545454545453
+Coumatetralyl,-2.84,-5.194,O=c2c(C3CCCc4ccccc43)c(O)c1ccccc1o2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9D90>,3.9668000000000028,292.33400000000006,1,16,22,0.7272727272727273
+Cyanazine,-3.15,-2.49,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9D20>,1.6708799999999997,240.698,4,6,16,0.375
+cycloate,-3.4,-3.35,CCSC(=O)N(CC)C1CCCCC1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9CB0>,3.5141000000000027,215.36199999999994,3,0,14,0.0
+cyclobarbital,-2.17,-2.421,CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9C40>,1.2491999999999999,236.27099999999993,2,0,17,0.0
+Cyclobutyl-5-spirobarbituric acid,-1.655,-0.527,O=C2NC(=O)C1(CCC1)C(=O)N2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9BD0>,-0.4773,168.15200000000002,0,0,12,0.0
+Cycloheptane,-3.51,-2.916,C1CCCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9B60>,2.7307000000000015,98.18900000000001,0,0,7,0.0
+Cycloheptanol,-0.88,-1.7,OC1CCCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9AF0>,1.7015,114.188,0,0,8,0.0
+Cycloheptene,-3.18,-2.599,C1CCC=CCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9A80>,2.5067000000000004,96.173,0,0,7,0.0
+Cycloheptyl-5-spirobarbituric acid,-3.168,-1.844,O=C2NC(=O)C1(CCCCCC1)C(=O)N2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9A10>,0.6929999999999998,210.23299999999998,0,0,15,0.0
+Cyclohexane,-3.1,-2.477,C1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A99A0>,2.3406000000000002,84.162,0,0,6,0.0
+Cyclohexanol ,-0.44,-1.261,OC1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9930>,1.3114,100.161,0,0,7,0.0
+Cyclohexanone,-0.6,-0.996,O=C1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A98C0>,1.5196,98.14500000000001,0,0,7,0.0
+Cyclohexene,-2.59,-2.16,C1CCC=CC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9850>,2.1166,82.146,0,0,6,0.0
+cycloheximide,-1.13,-1.532,CC1CC(C)C(=O)C(C1)C(O)CC2CC(=O)NC(=O)C2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A97E0>,1.0414999999999999,281.35200000000003,3,0,20,0.0
+Cyclohexyl-5-spirobarbituric acid,-3.06,-1.405,O=C2NC(=O)C1(CCCCC1)C(=O)N2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9770>,0.3029,196.206,0,0,14,0.0
+Cyclooctane,-4.15,-3.355,C1CCCCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9700>,3.120800000000002,112.21600000000001,0,0,8,0.0
+Cyclooctanol,-1.29,-2.14,OC1CCCCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9690>,2.0915999999999997,128.215,0,0,9,0.0
+Cyclooctyl-5-spirobarbituric acid,-2.982,-2.284,O=C2NC(=O)C1(CCCCCCC1)C(=O)N2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9620>,1.0831,224.25999999999996,0,0,16,0.0
+Cyclopentane ,-2.64,-2.038,C1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A95B0>,1.9505000000000001,70.135,0,0,5,0.0
+Cyclopentene ,-2.1,-1.72,C1CC=CC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9540>,1.7265,68.11900000000001,0,0,5,0.0
+Cyclopentyl-5-spirobarbituric acid,-2.349,-0.966,O=C2NC(=O)C1(CCCC1)C(=O)N2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A94D0>,-0.08720000000000011,182.179,0,0,13,0.0
+Cyclopropyl-5-spirobarbituric acid,-1.886,-0.088,O=C2NC(=O)C1(CC1)C(=O)N2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9460>,-0.8674000000000002,154.125,0,0,11,0.0
+Cycluron,-2.218,-2.629,CN(C)C(=O)NC1CCCCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A93F0>,2.3705,198.30999999999992,1,0,14,0.0
+Cyfluthrin,-7.337,-6.84,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9380>,6.317080000000003,434.29400000000015,6,12,29,0.41379310344827586
+Cyhalothrin,-8.176,-6.905,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9310>,6.543980000000005,449.8560000000001,6,12,31,0.3870967741935484
+Cypermethrin,-8.017,-6.775,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A92A0>,6.177980000000004,416.30400000000014,6,12,28,0.42857142857142855
+cytosine,-1.155,0.051,Nc1cc[nH]c(=O)n1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9230>,-0.6479000000000001,111.104,0,6,8,0.75
+Danazol,-5.507,-4.557,CC23Cc1cnoc1C=C2CCC4C3CCC5(C)C4CCC5(O)C#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A91C0>,4.221000000000004,337.4630000000001,0,5,25,0.2
+Dapsone,-3.094,-2.464,Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9150>,1.6838000000000002,248.307,2,12,17,0.7058823529411765
+DDD,-7.2,-6.008,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A90E0>,5.929000000000003,320.04600000000005,3,12,18,0.6666666666666666
+DDE,-6.9,-6.553,ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9070>,6.187900000000003,318.0300000000001,2,12,18,0.6666666666666666
+DDT,-7.15,-6.638,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A9000>,6.495500000000002,354.491,2,12,19,0.631578947368421
+Decalin,-5.19,-3.715,C1CCC2CCCCC2C1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8F90>,3.3668000000000022,138.254,0,0,10,0.0
+DEF,-5.14,-4.074,CCCCSP(=O)(SCCCC)SCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8F20>,6.694400000000005,314.5220000000001,12,0,17,0.0
+Deltamethrin,-8.402,-7.44,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8EB0>,6.490180000000005,505.20600000000024,6,12,28,0.42857142857142855
+Deoxycorticosterone,-3.45,-3.939,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8E40>,3.695900000000003,330.4680000000001,2,0,24,0.0
+deoxycorticosterone acetate,-4.63,-4.472,CC(=O)OCC(=O)C3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8DD0>,4.266700000000004,372.5050000000002,3,0,27,0.0
+Desmedipham,-4.632,-4.182,CCOC(=O)Nc2cccc(OC(=O)Nc1ccccc1)c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8D60>,3.8659000000000017,300.314,4,12,22,0.5454545454545454
+Dexamethasone,-3.59,-3.4,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8CF0>,1.8957000000000002,392.4670000000002,2,0,28,0.0
+dexamethasone acetate,-4.9,-3.933,CC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)COC(C)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8C80>,2.466500000000001,434.5040000000003,3,0,31,0.0
+D-fenchone,-1.85,-2.158,CC2(C)C1CCC(C)(C1)C2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8C10>,2.401700000000001,152.237,0,0,11,0.0
+Di(2-ethylhexyl)-phthalate,-6.96,-7.117,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8BA0>,6.433000000000007,390.5640000000003,14,6,28,0.21428571428571427
+Dialifor,-6.34,-5.026,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8B30>,3.878200000000003,393.85400000000016,8,6,23,0.2608695652173913
+Dialifos,-6.34,-5.026,CCOP(=S)(OCC)SC(CCl)N2C(=O)c1ccccc1C2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8AC0>,3.878200000000003,393.85400000000016,8,6,23,0.2608695652173913
+Diallate,-4.286,-3.827,CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8A50>,4.277400000000004,270.225,4,0,15,0.0
+Diazepam,-3.754,-4.05,CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A89E0>,3.153800000000002,284.74600000000004,1,12,20,0.6
+Diazinon,-3.64,-3.989,CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8970>,3.5847200000000026,304.35200000000003,7,6,19,0.3157894736842105
+Dibenzofurane,-4.6,-4.201,o1c2ccccc2c3ccccc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8900>,3.586000000000002,168.195,0,13,13,1.0
+Dibenzothiophene,-4.38,-4.597,c1ccc2c(c1)sc3ccccc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8890>,4.054500000000002,184.263,0,13,13,1.0
+Dibromomethane,-1.17,-1.883,BrCBr,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8820>,1.7337,173.83499999999998,0,0,3,0.0
+Dibutyl ether ,-1.85,-2.135,CCCCOCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A87B0>,2.603200000000001,130.231,6,0,9,0.0
+dibutyl sebacate,-3.896,-4.726,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8740>,4.7938000000000045,314.46600000000007,15,0,22,0.0
+dibutylphthalate,-4.4,-4.378,CCCCOC(=O)c1ccccc1C(=O)OCCCC ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A86D0>,3.600400000000003,278.348,8,6,20,0.3
+Dicapthon,-4.31,-4.188,COP(=S)(OC)Oc1ccc(cc1Cl)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8660>,3.144300000000002,297.656,5,6,17,0.35294117647058826
+Dichloromethane,-0.63,-1.156,ClCCl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A85F0>,1.4215,84.93299999999999,0,0,3,0.0
+Dichlorophen,-3.953,-4.924,Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8580>,3.9954000000000023,269.127,2,12,17,0.7058823529411765
+Dicofol,-5.666,-6.268,OC(c1ccc(Cl)cc1)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8510>,5.599500000000002,370.49,2,12,20,0.6
+Dieldrin,-6.29,-4.533,ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A84A0>,4.481400000000002,380.913,0,0,19,0.0
+Dienestrol,-4.95,-4.775,CC=C(C(=CC)c1ccc(O)cc1)c2ccc(O)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8430>,4.604600000000004,266.34,3,12,20,0.6
+Dienochlor,-7.278,-7.848,ClC1=C(Cl)C(Cl)(C(=C1Cl)Cl)C2(Cl)C(=C(Cl)C(=C2Cl)Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A83C0>,7.725599999999999,474.64,1,0,20,0.0
+Diethyl ether ,-0.09,-0.718,CCOCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8350>,1.0428000000000002,74.123,2,0,5,0.0
+Diethyl phthalate ,-2.35,-3.016,CCOC(=O)c1ccccc1C(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6082960>,2.04,222.23999999999995,4,6,16,0.375
+Diethyl sulfide,-1.34,-1.598,CCSCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A82E0>,1.7593999999999999,90.191,2,0,5,0.0
+Diethyldisulfide,-2.42,-2.364,CCSSCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8270>,2.4076000000000004,122.258,3,0,6,0.0
+diethylstilbestrol,-4.07,-5.074,CCC(=C(CC)c1ccc(O)cc1)c2ccc(O)cc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8200>,4.828600000000005,268.356,4,12,20,0.6
+Difenoxuron,-4.16,-3.928,COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8190>,3.581000000000002,286.331,4,12,21,0.5714285714285714
+difluron,-6.02,-4.692,Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8120>,3.5801000000000016,310.687,2,12,21,0.5714285714285714
+Digitoxin,-5.293,-6.114,CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CCC5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A80B0>,3.247300000000002,764.9499999999999,7,0,54,0.0
+"Digoxin (L1=41,8mg/mL, L2=68,2mg/mL, Z=40,1mg/mL)",-4.081,-5.312,CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CC(O)C5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A8040>,2.2181000000000015,780.9490000000001,7,0,55,0.0
+Dihexyl phthalate,-6.144,-5.758,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7F40>,5.160800000000005,334.45600000000024,12,6,24,0.25
+Diiodomethane,-2.34,-2.958,ICI,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7ED0>,1.8139,267.835,0,0,3,0.0
+diisooctyl phthalate,-6.637,-7.117,c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7E60>,6.433000000000008,390.5640000000002,14,6,28,0.21428571428571427
+Diisopropyl ether ,-1.1,-1.281,CC(C)OC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7DF0>,1.8197999999999999,102.17699999999999,2,0,7,0.0
+Diisopropylsulfide,-2.24,-2.162,CC(C)SC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7D80>,2.5364000000000004,118.24499999999999,2,0,7,0.0
+Dimecron,0.523,-2.426,CCN(CC)C(=O)C(=CCOP(=O)(OC)OC)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7D10>,2.3950000000000005,299.6909999999999,8,0,18,0.0
+Dimefuron,-4.328,-3.831,CN(C)C(=O)Nc1ccc(c(Cl)c1)n2nc(oc2=O)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7CA0>,2.8699000000000012,338.79500000000013,2,11,23,0.4782608695652174
+dimetan,-0.85,-2.304,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7C30>,1.9576,211.26099999999994,1,0,15,0.0
+dimethirimol,-2.24,-3.57,CCCCc1c(C)nc(nc1O)N(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7BC0>,1.89922,209.29299999999998,4,6,15,0.4
+Dimethoxymethane,0.48,0.092,COCOC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7B50>,0.23670000000000002,76.095,2,0,5,0.0
+Dimethyl phthalate,-1.66,-2.347,COC(=O)c1ccccc1C(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7AE0>,1.2597999999999998,194.18599999999995,2,6,14,0.42857142857142855
+Dimethyl sulfide,-0.45,-0.758,CSC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7A70>,0.9792,62.137,0,0,3,0.0
+Dimethyldisulfide,-1.44,-1.524,CSSC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7A00>,1.6274,94.20400000000001,1,0,4,0.0
+Dinitramine,-5.47,-4.479,CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7990>,2.9502000000000006,322.243,5,6,22,0.2727272727272727
+Dinoseb,-3.38,-3.715,CCC(C)c1cc(cc(N(=O)=O)c1O)N(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7920>,2.7221000000000024,240.21499999999995,4,6,17,0.35294117647058826
+d-inositol,0.35,-0.887,OC1C(O)C(O)C(O)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A78B0>,-3.8346000000000005,180.156,0,0,12,0.0
+Di-n-propylsulfide,-2.58,-2.307,CCCSCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7840>,2.539600000000001,118.24499999999999,4,0,7,0.0
+dioctyl phthalate,-5.115,-7.148,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A77D0>,6.721200000000008,390.56400000000036,16,6,28,0.21428571428571427
+Diosgenin,-7.32,-5.681,C1C(O)CCC2(C)CC3CCC4(C)C5(C)CC6OCC(C)CC6OC5CC4C3C=C21,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7760>,5.508800000000006,414.63000000000017,0,0,30,0.0
+Dioxacarb,-1.57,-1.614,CNC(=O)Oc1ccccc1C2OCCO2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A76F0>,1.4502,223.22799999999995,2,6,16,0.375
+diphenamid,-2.98,-3.147,CN(C)C(=O)C(c1ccccc1)c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7680>,2.9067000000000016,239.318,3,12,18,0.6666666666666666
+Diphenyl ether ,-3.96,-4.254,O(c1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7610>,3.478900000000002,170.211,2,12,13,0.9230769230769231
+Diphenylamine,-3.504,-3.857,N(c1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A75A0>,3.430200000000002,169.227,2,12,13,0.9230769230769231
+Diphenylmethane,-4.08,-4.09,C(c1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7530>,3.277400000000002,168.239,2,12,13,0.9230769230769231
+Dipropyl ether,-1.62,-1.426,CCCOCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A74C0>,1.823,102.17699999999999,4,0,7,0.0
+Disulfiram,-4.86,-3.862,CCN(CC)C(=S)SSC(=S)N(CC)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7450>,3.6212000000000026,296.5520000000001,4,0,16,0.0
+Disulfoton,-4.23,-3.975,CCOP(=S)(OCC)SCCSCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A73E0>,3.7702000000000027,274.413,9,0,14,0.0
+Ditalimfos,-3.35,-3.992,CCOP(=S)(OCC)N2C(=O)c1ccccc1C2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7370>,2.5801000000000007,299.28800000000007,5,6,19,0.3157894736842105
+Diuron,-3.8,-3.301,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7300>,3.0869000000000018,233.09799999999998,1,6,14,0.42857142857142855
+d-Limonene,-4.26,-3.429,CC1=CCC(CC1)C(C)=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7290>,3.308900000000002,136.238,1,0,10,0.0
+DNOC,-1.456,-2.818,Cc1cc(cc(N(=O)=O)c1O)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7220>,1.5170200000000003,198.134,2,6,14,0.42857142857142855
+Dulcin,-2.17,-2.167,CCOc1ccc(NC(N)=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A71B0>,1.5758999999999999,180.20699999999997,3,6,13,0.46153846153846156
+Dyphylline,-0.17,-0.847,Cn2c(=O)n(C)c1ncn(CC(O)CO)c1c2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7140>,-2.2130999999999985,254.24599999999995,3,9,18,0.5
+Eicosane,-8.172,-7.576,CCCCCCCCCCCCCCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A70D0>,8.048000000000007,282.5559999999999,17,0,20,0.0
+Endrin,-6.18,-4.533,ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A7060>,4.481400000000002,380.913,0,0,19,0.0
+Epiandrosterone,-4.16,-3.882,CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6FF0>,3.959100000000003,290.447,0,0,21,0.0
+Epitostanol,-5.41,-4.545,CC45CCC2C(CCC3CC1SC1CC23C)C4CCC5O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6F80>,4.483900000000005,306.51500000000004,0,0,21,0.0
+Equilenin,-5.24,-3.927,CC34CCc1c(ccc2cc(O)ccc12)C3CCC4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6F10>,3.9444000000000026,266.34,0,10,20,0.5
+Equilin,-5.282,-3.555,CC34CCC1C(=CCc2cc(O)ccc12)C3CCC4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6EA0>,3.7375000000000025,268.356,0,6,20,0.3
+Eriodictyol,-3.62,-3.152,Oc2cc(O)c1C(=O)CC(Oc1c2)c3ccc(O)c(O)c3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6E30>,2.2155000000000005,288.255,1,12,21,0.5714285714285714
+Erythritol,0.7,0.675,OCC(O)C(O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6DC0>,-2.3071999999999995,122.11999999999999,3,0,8,0.0
+Estradiol,-5.03,-4.138,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6D50>,3.6092000000000026,272.388,0,6,20,0.3
+Estragole,-2.92,-3.074,c1(OC)ccc(CC=C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6CE0>,2.4237,148.205,3,6,11,0.5454545454545454
+estriol,-4.955,-3.858,CC34CCC1C(CCc2cc(O)ccc12)C3CC(O)C4O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6C70>,2.5800000000000005,288.387,0,6,21,0.2857142857142857
+Estrone,-3.955,-3.872,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6C00>,3.817400000000003,270.372,0,6,20,0.3
+Ethalfluralin,-6.124,-5.063,CCN(CC(C)=C)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6B90>,3.9242000000000035,333.266,6,6,23,0.2608695652173913
+Ethane,-1.36,-1.132,CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6B20>,1.0262,30.07,0,0,2,0.0
+Ethanethiol,-0.6,-0.968,CCS,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6AB0>,0.9360999999999999,62.137,0,0,3,0.0
+Ethanol,1.1,0.02,CCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6A40>,-0.0014000000000000123,46.069,0,0,3,0.0
+Ethinyl estradiol,-4.3,-4.317,CC34CCC1C(CCc2cc(O)ccc12)C3CCC4(O)C#C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A69D0>,3.6126000000000023,296.41,0,6,22,0.2727272727272727
+ethiofencarb,-2.09,-2.855,CCSCc1ccccc1OC(=O)NC ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6960>,2.6579000000000006,225.313,4,6,15,0.4
+Ethion,-5.54,-5.471,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A68F0>,5.005300000000004,384.4870000000002,12,0,19,0.0
+Ethirimol,-3.028,-2.732,CCCCc1c(C)nc(NCC)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6880>,1.85272,209.29299999999998,5,6,15,0.4
+Ethisterone,-5.66,-3.858,CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6810>,3.8826000000000027,312.45300000000003,0,0,23,0.0
+Ethofumesate,-3.42,-3.184,CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A67A0>,2.0576,286.34900000000005,4,6,19,0.3157894736842105
+ethofumesate,-3.42,-3.184,CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6730>,2.0576,286.34900000000005,4,6,19,0.3157894736842105
+Ethoxyzolamide,-3.81,-3.085,CCOc2ccc1nc(sc1c2)S(N)(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A66C0>,1.3424,258.324,3,9,16,0.5625
+Ethyl acetate,-0.04,-0.77,CCOC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6650>,0.5694,88.106,1,0,6,0.0
+Ethyl benzoate ,-2.32,-2.775,CCOC(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A65E0>,1.8633,150.177,2,6,11,0.5454545454545454
+Ethyl butyrate,-1.28,-2.254,CCCCCOC(=O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6570>,2.1298000000000004,144.21399999999997,5,0,10,0.0
+ethyl cinnamate,-3.0,-3.098,CCOC(=O)C=Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6500>,2.2629,176.215,3,6,13,0.46153846153846156
+Ethyl decanoate,-4.1,-3.671,CCCCCCCCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6490>,3.6902000000000026,200.32199999999997,9,0,14,0.0
+Ethyl formate,0.15,-0.402,CCOC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6420>,0.17930000000000001,74.07900000000001,2,0,5,0.0
+Ethyl heptanoate,-2.74,-2.608,CCCCCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A63B0>,2.5199000000000007,158.24099999999999,6,0,11,0.0
+Ethyl hexanoate,-2.35,-2.254,CCCCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6340>,2.1298000000000004,144.21399999999997,5,0,10,0.0
+Ethyl nonanoate,-3.8,-3.316,CCCCCCCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A62D0>,3.3001000000000023,186.295,8,0,13,0.0
+Ethyl octanoate,-3.39,-2.962,CCCCCCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6260>,2.910000000000001,172.26799999999997,7,0,12,0.0
+Ethyl pentanoate,-1.75,-1.899,CCCOC(=O)CCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A61F0>,1.7397,130.18699999999998,4,0,9,0.0
+Ethyl propionate,-0.66,-1.191,CCOC(=O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6180>,0.9595,102.133,2,0,7,0.0
+Ethyl propyl ether,-0.66,-1.072,CCCOCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6110>,1.4329,88.14999999999999,3,0,6,0.0
+Ethyl vinyl ether,-0.85,-0.857,CCOC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A60A0>,1.1664,72.10700000000001,2,0,5,0.0
+Ethylbenzene,-2.77,-2.988,CCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A6030>,2.2490000000000006,106.16799999999996,1,6,8,0.75
+Ethylcyclohexane,-4.25,-3.245,CCC1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5FC0>,2.976700000000002,112.21600000000001,1,0,8,0.0
+Ethylene,-0.4,-0.815,C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5F50>,0.8022,28.053999999999995,0,0,2,0.0
+Ethyl-p-aminobenzoate,-2.1,-2.383,CCOC(=O)c1ccc(N)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5EE0>,1.4455,165.19199999999998,2,6,12,0.5
+Ethyl-p-hydroxybenzoate ,-2.35,-2.761,CCOC(=O)c1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5E70>,1.5689,166.176,2,6,12,0.5
+Ethyne,0.29,-0.252,C#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5E00>,0.24939999999999998,26.037999999999997,0,0,2,0.0
+Etofenprox,-8.6,-6.896,CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5D90>,6.372000000000007,376.49600000000004,9,18,28,0.6428571428571429
+Etomidate,-4.735,-3.359,CCOC(=O)c1cncn1C(C)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5D20>,2.669100000000001,244.294,4,11,18,0.6111111111111112
+"Etoposide (148-167,25mg/ml)",-3.571,-3.292,COc1cc(cc(OC)c1O)C6C2C(COC2=O)C(OC4OC3COC(C)OC3C(O)C4O)c7cc5OCOc5cc67,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5CB0>,1.338599999999999,588.5620000000001,5,12,42,0.2857142857142857
+eucalyptol,-1.64,-2.579,CC12CCC(CC1)C(C)(C)O2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5C40>,2.7441000000000013,154.253,0,0,11,0.0
+Eugenol,-1.56,-2.675,COc1cc(CC=C)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5BD0>,2.1293,164.204,3,6,12,0.5
+Fenarimol,-4.38,-4.108,OC(c1ccc(Cl)cc1)(c2cncnc2)c3ccccc3Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5B60>,4.0676000000000005,331.202,3,18,22,0.8181818181818182
+Fenfuram,-3.3,-2.885,Cc1occc1C(=O)Nc2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5AF0>,2.840320000000001,201.22500000000002,2,11,15,0.7333333333333333
+Fenitrothion,-4.04,-3.845,COP(=S)(OC)Oc1ccc(N(=O)=O)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5A80>,2.7993200000000007,277.238,5,6,17,0.35294117647058826
+Fenothiocarb,-3.927,-3.297,CN(C)C(=O)SCCCCOc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5A10>,3.2604000000000024,253.367,6,6,17,0.35294117647058826
+Fenoxycarb,-4.7,-4.662,CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A59A0>,3.6038000000000023,301.34200000000004,7,12,22,0.5454545454545454
+Fenpropathrin,-6.025,-6.15,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5930>,5.268980000000004,349.43000000000006,5,12,26,0.46153846153846156
+fensulfothion,-2.3,-3.283,CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A58C0>,3.1003000000000016,308.36100000000005,7,6,18,0.3333333333333333
+Fenthion,-4.57,-4.265,COP(=S)(OC)Oc1ccc(SC)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5850>,3.6130200000000023,278.335,5,6,16,0.375
+Fenuron,-1.6,-1.847,CN(C)C(=O)Nc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A57E0>,1.7801,164.208,1,6,12,0.5
+fluconazole,-1.8,-2.418,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5770>,0.7357999999999993,306.276,5,16,22,0.7272727272727273
+Flucythrinate,-6.876,-6.878,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c3ccc(OC(F)F)cc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5700>,6.627980000000005,451.46900000000005,9,18,33,0.5454545454545454
+Flucytosine,-0.972,-0.132,Nc1nc(=O)[nH]cc1F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5690>,-0.5088000000000001,129.09399999999997,0,6,9,0.6666666666666666
+Fludrocortisone,-3.43,-3.172,CC34CC(O)C1(F)C(CCC2=CC(=O)CCC12C)C3CCC4(O)C(=O)CO ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5620>,1.8737,380.45600000000013,2,0,27,0.0
+Flumethasone,-5.613,-3.539,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A55B0>,1.8436999999999997,410.4570000000002,2,0,29,0.0
+Flumetralin,-6.78,-6.584,CCN(Cc1c(F)cccc1Cl)c2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5540>,5.340800000000003,421.7340000000001,6,12,28,0.42857142857142855
+Fluometuron,-3.43,-3.065,CN(C)C(=O)Nc1cccc(c1)C(F)(F)F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A54D0>,2.7989000000000006,232.20499999999996,1,6,16,0.375
+Fluoranthene,-6.0,-4.957,c1ccc2c(c1)c3cccc4cccc2c34,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5460>,4.487200000000002,202.25599999999997,0,16,16,1.0
+Fluorene ,-5.0,-4.125,C1c2ccccc2c3ccccc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A53F0>,3.2578000000000014,166.22299999999998,0,12,13,0.9230769230769231
+Fluorobenzene,-1.8,-2.514,Fc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5380>,1.8256999999999999,96.10399999999998,0,6,7,0.8571428571428571
+Fluoromethalone,-4.099,-3.507,CC1CC2C3CCC(O)(C(=O)C)C3(C)CC(O)C2(F)C4(C)C=CC(=O)C=C14,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5310>,2.923300000000001,376.46800000000013,1,0,27,0.0
+Fluorometuron,-3.32,-3.065,CN(C)C(=O)Nc1cccc(c1)C(F)(F)F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A52A0>,2.7989000000000006,232.20499999999996,1,6,16,0.375
+Fluridone,-4.445,-4.249,Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5230>,4.738100000000002,329.32099999999997,2,18,24,0.75
+Flurochloridone,-4.047,-4.749,FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A51C0>,3.514400000000002,312.118,2,6,19,0.3157894736842105
+Flutriafol,-3.37,-3.569,OC(Cn1cncn1)(c2ccc(F)cc2)c3ccccc3F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5150>,2.492400000000001,301.296,4,17,22,0.7727272727272727
+Fluvalinate,-8.003,-8.057,CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A50E0>,7.395680000000005,502.9200000000002,8,18,35,0.5142857142857142
+Formetanate,-2.34,-1.846,CNC(=O)Oc1cccc(N=CN(C)C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5070>,1.6262,221.26,3,6,16,0.375
+Formothion,-1.995,-2.087,COP(=S)(OC)SCC(=O)N(C)C=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A5000>,0.8516999999999999,257.27299999999997,6,0,14,0.0
+Fructose,0.64,0.471,OCC1OC(O)(CO)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4F90>,-3.2197999999999998,180.156,2,0,12,0.0
+Furane,-0.82,-1.837,c1ccoc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4F20>,1.2795999999999998,68.07499999999999,0,5,5,1.0
+Furfural,-0.1,-1.391,O=Cc1ccco1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4EB0>,1.0920999999999998,96.08499999999998,1,5,7,0.7142857142857143
+gentisin,-2.943,-1.292,c1c(O)C2C(=O)C3cc(O)ccC3OC2cc1(OC),<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4E40>,1.5528,262.261,1,0,19,0.0
+Glafenine,-4.571,-5.052,OCC(O)COC(=O)c1ccccc1Nc2ccnc3cc(Cl)ccc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4DD0>,3.141800000000001,372.80800000000016,6,16,26,0.6153846153846154
+glucose,0.74,0.501,OCC1OC(O)C(O)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4D60>,-3.2214000000000005,180.156,1,0,12,0.0
+Glutethimide,-2.337,-2.591,CCC1(CCC(=O)NC1=O)c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4CF0>,1.771,217.268,2,6,16,0.375
+Glycerol,1.12,0.688,OCC(O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4C80>,-1.6681000000000001,92.09400000000001,2,0,6,0.0
+Glyceryl triacetate,-0.6,-1.285,CC(=O)OCC(COC(=O)C)OC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4C10>,0.044299999999999784,218.20499999999998,5,0,15,0.0
+Griseofulvin,-3.246,-3.328,COC1=CC(=O)CC(C)C13Oc2c(Cl)c(OC)cc(OC)c2C3=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4BA0>,2.8103000000000007,352.7700000000001,3,6,24,0.25
+Guaiacol,-1.96,-1.941,COc1ccccc1O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4B30>,1.4008,124.13899999999997,1,6,9,0.6666666666666666
+guanine,-3.583,-0.67,Nc2nc1[nH]cnc1c(=O)[nH]2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4AC0>,-0.7716000000000003,151.129,0,9,11,0.8181818181818182
+halothane,-1.71,-2.608,FC(F)(F)C(Cl)Br ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4A50>,2.5084999999999997,197.381,0,0,7,0.0
+hematein,-2.7,-1.795,c1cc(O)c(O)c2OCC3(O)CC4=CC(=O)C(O)=CC4=C3c21,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A49E0>,1.3295999999999997,300.266,0,6,22,0.2727272727272727
+Heptachlor,-6.317,-5.26,ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4970>,5.2415,373.3209999999999,0,0,17,0.0
+Heptane,-4.53,-2.97,CCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4900>,2.976700000000002,100.205,4,0,7,0.0
+"Hexachloro-1,3-butadiene",-4.92,-4.546,ClC(=C(Cl)C(=C(Cl)Cl)Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4890>,4.7574,260.762,1,0,10,0.0
+Hexachloroethane,-3.67,-4.215,ClC(Cl)(Cl)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4820>,3.7268,236.74,0,0,8,0.0
+hexacosane,-8.334,-9.702,CCCCCCCCCCCCCCCCCCCCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A47B0>,10.388599999999993,366.7180000000002,23,0,26,0.0
+Hexadecane,-8.4,-6.159,CCCCCCCCCCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4740>,6.487600000000007,226.44799999999992,13,0,16,0.0
+Hexamethylbenzene,-5.23,-4.361,Cc1c(C)c(C)c(C)c(C)c1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A46D0>,3.5371200000000025,162.27599999999998,0,6,12,0.5
+Hexane ,-3.84,-2.615,CCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4660>,2.5866000000000007,86.178,3,0,6,0.0
+Hexestrol,-4.43,-4.854,CCC(C(CC)c1ccc(O)cc1)c2ccc(O)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A45F0>,4.785200000000005,270.372,5,12,20,0.6
+Hexylbenzene ,-5.21,-4.22,CCCCCCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4580>,3.809400000000003,162.276,5,6,12,0.5
+hydantoin,-0.4,0.603,O=C1CNC(=O)N1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4510>,-1.1742,100.077,0,0,7,0.0
+hydrazobenzene,-2.92,-3.492,N(Nc1ccccc1)c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A44A0>,3.1256000000000013,184.242,3,12,14,0.8571428571428571
+hydrobenzoin,-1.93,-2.645,c1ccccc1C(O)C(O)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4430>,2.4536000000000007,214.264,3,12,16,0.75
+hydrochlorothiazide,-2.63,-1.72,NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A43C0>,-0.35129999999999945,297.745,1,6,17,0.35294117647058826
+Hydrocortisone ,-3.09,-3.159,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4350>,1.7815999999999996,362.4660000000002,2,0,26,0.0
+Hydrocortisone 21-acetate,-4.88,-3.692,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A42E0>,2.3524000000000003,404.5030000000002,3,0,29,0.0
+hydroxychlordene,-5.46,-4.156,OC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4270>,3.995,354.8749999999999,0,0,17,0.0
+Hydroxyprogesterone-17a,-3.817,-3.876,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4200>,3.8384000000000027,330.4680000000001,1,0,24,0.0
+Hypoxanthine,-2.296,-0.656,O=c1[nH]cnc2nc[nH]c12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4190>,-0.35380000000000006,136.114,0,9,10,0.9
+Indan,-3.04,-3.057,C1Cc2ccccc2C1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4120>,2.1753,118.17899999999997,0,6,9,0.6666666666666666
+Indapamide,-3.586,-4.345,CC2Cc1ccccc1N2NC(=O)c3ccc(Cl)c(c3)S(N)(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A40B0>,2.0834,365.84200000000004,3,12,24,0.5
+indazole,-2.16,-2.34,c2ccc1[nH]ncc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A4040>,1.5629,118.13899999999998,0,9,9,1.0
+Indole,-1.52,-2.654,c2ccc1[nH]ccc1c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3F40>,2.1678999999999995,117.15099999999997,0,9,9,1.0
+indoline,-1.04,-2.195,c2ccc1NCCc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3ED0>,1.6545999999999998,119.16699999999999,0,6,9,0.6666666666666666
+Inosine,-1.23,-0.834,OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3E60>,-1.8566000000000003,268.22900000000004,2,9,19,0.47368421052631576
+Iodobenzene,-3.01,-3.8,Ic1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3DF0>,2.2912,204.01000000000002,0,6,7,0.8571428571428571
+Iodoethane,-1.6,-2.066,CCI,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3D80>,1.4413,155.966,0,0,3,0.0
+Iodofenphos,-6.62,-6.148,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3D10>,4.494100000000002,413.0,4,6,16,0.375
+Iodomethane,-1.0,-1.646,CI,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3CA0>,1.0512000000000001,141.939,0,0,2,0.0
+Ioxynil,-3.61,-4.615,Oc1c(I)cc(C#N)cc1I,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3C30>,2.4730799999999995,370.91499999999996,0,6,11,0.5454545454545454
+Ipazine,-3.785,-3.497,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3BC0>,2.1914999999999996,243.74200000000002,5,6,16,0.375
+Isazofos,-3.658,-3.76,CCOP(=S)(OCC)Oc1nc(Cl)n(n1)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3B50>,3.1887000000000016,313.747,7,5,18,0.2777777777777778
+Isobutyl acetate,-1.21,-1.463,CC(C)COC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3AE0>,1.2055,116.15999999999998,2,0,8,0.0
+Isobutyl formate,-1.01,-1.095,CC(C)COC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3A70>,0.8154,102.13299999999998,3,0,7,0.0
+Isobutylbenzene,-4.12,-3.57,CC(C)Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3A00>,2.8851000000000013,134.22199999999998,2,6,10,0.6
+isocarbamid,-2.15,-1.508,C1N(C(=O)NCC(C)C)C(=O)NC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3990>,0.37720000000000026,185.22699999999998,2,0,13,0.0
+Isocarboxazid,-2.461,-2.251,Cc1cc(no1)C(=O)NNCc2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3920>,1.41762,231.25500000000002,4,11,17,0.6470588235294118
+Isofenphos,-4.194,-4.538,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A38B0>,3.8896000000000033,345.4010000000002,8,6,22,0.2727272727272727
+isoguanine,-3.401,-1.74,Nc1nc(O)nc2nc[nH]c12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3840>,-0.3593,151.129,0,9,11,0.8181818181818182
+Isonazid,0.009,-0.717,c1nccc(C(=O)NN)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A37D0>,-0.3149000000000001,137.14200000000002,1,6,10,0.6
+Isopentyl acetate,-1.92,-1.817,CC(C)CCOC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3760>,1.5956000000000001,130.18699999999998,3,0,9,0.0
+Isopentyl formate,-1.52,-1.449,CC(C)CCOC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A36F0>,1.2055,116.15999999999998,4,0,8,0.0
+isophorone,-1.06,-2.015,CC1=CC(=O)CC(C)(C)C1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3680>,2.3218000000000005,138.20999999999998,0,0,10,0.0
+Isoprocarb,-2.863,-2.734,CNC(=O)Oc1ccccc1C(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3610>,2.528200000000001,193.24599999999998,2,6,14,0.42857142857142855
+Isopropalin,-6.49,-5.306,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(C)C)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A35A0>,4.252800000000004,309.36600000000004,8,6,22,0.2727272727272727
+Isopropyl acetate,-0.55,-1.191,CC(C)OC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3530>,0.9579,102.133,1,0,7,0.0
+Isopropyl formate,-0.63,-0.684,CC(C)OC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A34C0>,0.5678,88.106,2,0,6,0.0
+Isopropylbenzene ,-3.27,-3.265,CC(C)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3450>,2.8100000000000014,120.19499999999995,1,6,9,0.6666666666666666
+Isoproturon,-3.536,-2.867,CC(C)c1ccc(NC(=O)N(C)C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A33E0>,2.903500000000001,206.289,2,6,15,0.4
+Isoquinoline,-1.45,-2.531,c1ccc2cnccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3370>,2.2348,129.16199999999998,0,10,10,1.0
+karbutilate,-2.93,-2.655,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3300>,2.6670000000000007,279.34,2,6,20,0.3
+kebuzone,-3.27,-2.645,CC(=O)CCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3290>,2.966800000000001,322.36400000000003,5,12,24,0.5
+Kepone,-5.259,-5.112,ClC1(C(=O)C2(Cl)C3(Cl)C14Cl)C5(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C45Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3220>,4.6182,490.6390000000001,0,0,21,0.0
+Khellin,-3.021,-3.603,COc2c1occc1c(OC)c3c(=O)cc(C)oc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A31B0>,2.8648200000000017,260.24499999999995,2,13,19,0.6842105263157895
+Lactose,-0.244,1.071,OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3140>,-5.397199999999993,342.297,4,0,23,0.0
+L-arabinose,0.39,0.601,C1OC(O)C(O)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A30D0>,-2.5823000000000005,150.13,0,0,10,0.0
+Lenacil,-4.594,-3.355,O=c2[nH]c1CCCc1c(=O)n2C3CCCCC3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A3060>,1.5305,234.29899999999995,1,6,17,0.35294117647058826
+linalool,-1.99,-2.399,CC(C)=CCCC(O)(C)C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2FF0>,2.6698000000000013,154.253,4,0,11,0.0
+Lindane,-4.64,-4.009,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2F80>,3.644400000000001,290.832,0,0,12,0.0
+Linuron,-3.592,-3.581,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2F10>,3.0185000000000013,249.09699999999998,2,6,15,0.4
+Lorazepam,-3.604,-3.75,OC3N=C(c1ccccc1Cl)c2cc(Cl)ccc2NC3=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2EA0>,3.101300000000001,321.163,1,12,21,0.5714285714285714
+Lovastatin,-6.005,-4.731,CCC(C)C(=O)OC2CC(C)C=C3C=CC(C)C(CCC1CC(O)CC(=O)O1)C23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2E30>,4.195500000000004,404.54700000000025,6,0,29,0.0
+Malathion,-3.37,-3.391,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2DC0>,2.1218000000000004,330.3640000000001,9,0,19,0.0
+Malonic acid diethylester,-0.82,-1.413,CCOC(=O)CC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2D50>,0.5027,160.16899999999998,4,0,11,0.0
+Maltose,0.358,1.071,OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2CE0>,-5.397199999999993,342.297,4,0,23,0.0
+mannitol,0.06,0.647,OCC(O)C(O)C(O)C(O)CO ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2C70>,-3.5854000000000004,182.172,5,0,12,0.0
+m-Chloroaniline,-1.37,-2.392,Nc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2C00>,1.9222,127.574,0,6,8,0.75
+m-Chlorobromobenzene,-3.21,-3.928,Clc1cccc(Br)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2B90>,3.102500000000001,191.45499999999998,0,6,8,0.75
+m-Chloroiodobenzene,-3.55,-4.384,Clc1cccc(I)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2B20>,2.9446000000000003,238.45499999999998,0,6,8,0.75
+m-Chloronitrobenzene ,-2.77,-2.901,Clc1cccc(c1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2AB0>,2.2482000000000006,157.55599999999998,1,6,10,0.6
+Mebendazole,-3.88,-4.118,COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2A40>,2.972200000000001,295.298,3,15,22,0.6818181818181818
+Mecarbam,-2.518,-3.738,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A29D0>,2.6320000000000006,329.3800000000001,8,0,19,0.0
+meconin,-1.899,-0.825,c1c(OC)c(OC)C2C(=O)OCC2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2960>,0.8497999999999999,196.20199999999997,2,0,14,0.0
+Medrogestone,-5.27,-4.593,CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A28F0>,5.279700000000005,340.5070000000001,1,0,25,0.0
+Mefenacet,-4.873,-4.504,CN(C(=O)COc1nc2ccccc2s1)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2880>,3.3381000000000016,298.367,4,15,21,0.7142857142857143
+Mefluidide,-3.24,-3.165,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2810>,2.52334,310.297,3,6,20,0.3
+megestrol acetate,-5.35,-4.417,CC(=O)OC3(CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C)C(C)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A27A0>,4.575300000000004,384.5160000000002,2,0,28,0.0
+Menadione,-3.03,-2.667,CC2=CC(=O)c1ccccc1C2=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2730>,2.0119000000000002,172.18299999999996,0,6,13,0.46153846153846156
+menthol,-2.53,-2.782,CC(C)C1CCC(C)CC1O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A26C0>,2.439500000000001,156.269,1,0,11,0.0
+Menthone,-2.35,-2.516,CC(C)C1CCC(C)CC1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2650>,2.6477000000000013,154.253,1,0,11,0.0
+Meprobamate,-1.807,-1.376,CCCC(C)(COC(N)=O)COC(N)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A25E0>,0.9834000000000005,218.25299999999996,6,0,15,0.0
+mercaptobenzothiazole,-3.18,-3.411,Sc2nc1ccccc1s2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2570>,2.585,167.25799999999998,0,9,10,0.9
+metalaxyl,-1.601,-2.87,COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2500>,1.8443399999999999,279.336,5,6,20,0.3
+Methane,-0.9,-0.636,C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2490>,0.6361,16.043,0,0,1,0.0
+Methanol,1.57,0.441,CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2420>,-0.3915,32.042,0,0,2,0.0
+Methaqualone,-2.925,-3.881,Cc1ccccc1n3c(C)nc2ccccc2c3=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A23B0>,3.0025400000000015,250.30100000000002,1,16,19,0.8421052631578947
+metharbital,-2.23,-1.658,CCC1(CC)C(=O)NC(=O)N(C)C1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2340>,0.5009999999999999,198.22199999999998,2,0,14,0.0
+Methazole,-2.82,-3.601,Cn2c(=O)on(c1ccc(Cl)c(Cl)c1)c2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A22D0>,1.4359999999999997,261.064,1,11,16,0.6875
+Methocarbamol,-0.985,-1.428,COc1ccccc1OCC(O)COC(N)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2260>,0.5302000000000002,241.24299999999994,6,6,17,0.35294117647058826
+Methoprene,-5.19,-4.795,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A21F0>,5.062000000000006,310.47800000000007,10,0,22,0.0
+Methoproptryne,-2.928,-3.259,COCCCNc1nc(NC(C)C)nc(SC)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2180>,1.8621999999999999,271.39,8,6,18,0.3333333333333333
+Methoxsalen,-3.664,-3.25,COc2c1occc1cc3ccc(=O)oc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2110>,2.5478000000000005,216.19199999999995,1,13,16,0.8125
+Methoxychlor,-6.89,-5.538,COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A20A0>,5.205900000000002,345.6529999999999,4,12,21,0.5714285714285714
+Methyl acetate,0.46,-0.416,COC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A2030>,0.1792999999999999,74.07900000000001,0,0,5,0.0
+Methyl acrylate,-0.22,-0.878,COC(=O)C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1FC0>,0.34539999999999993,86.09,1,0,6,0.0
+Methyl benzoate ,-1.85,-2.462,COC(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1F50>,1.4732,136.14999999999998,1,6,10,0.6
+Methyl butyl ether ,-0.99,-1.072,CCCCOC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1EE0>,1.4329,88.14999999999999,3,0,6,0.0
+Methyl butyrate,-0.82,-1.545,CCCOC(=O)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1E70>,1.3496000000000001,116.15999999999998,3,0,8,0.0
+Methyl decanoate,-4.69,-3.316,CCCCCCCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1E00>,3.3001000000000023,186.295,8,0,13,0.0
+Methyl formate,0.58,-0.048,COC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1D90>,-0.2108000000000001,60.05200000000001,1,0,4,0.0
+methyl gallate,-1.24,-1.913,COC(=O)c1cc(O)c(O)c(O)c1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1D20>,0.5899999999999996,184.147,1,6,13,0.46153846153846156
+Methyl hexanoate,-1.87,-1.899,CCCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1CB0>,1.7397,130.18699999999998,4,0,9,0.0
+Methyl hydrazine,1.34,0.543,CNN,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1C40>,-0.9205000000000001,46.073,0,0,3,0.0
+methyl laurate,-4.69,-4.025,CCCCCCCCCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1BD0>,4.080300000000003,214.34899999999996,10,0,15,0.0
+methyl nicotinate,-0.46,-1.621,COC(=O)c1cccnc1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1B60>,0.8681999999999999,137.138,1,6,10,0.6
+Methyl nonanoate,-3.38,-2.962,CCCCCCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1AF0>,2.910000000000001,172.268,7,0,12,0.0
+Methyl octanoate,-3.17,-2.608,CCCCCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1A80>,2.5199000000000007,158.24099999999999,6,0,11,0.0
+Methyl pentanoate,-1.36,-1.545,CCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1A10>,1.3496000000000001,116.15999999999998,3,0,8,0.0
+Methyl propionate,-0.14,-0.836,CCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A19A0>,0.5694,88.106,1,0,6,0.0
+Methyl propyl ether ,-0.39,-0.718,CCCOC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1930>,1.0428,74.12299999999999,2,0,5,0.0
+Methyl t-butyl ether ,-0.24,-0.984,COC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A18C0>,1.4313,88.14999999999999,0,0,6,0.0
+Methylcyclohexane ,-3.85,-2.891,CC1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1850>,2.5866000000000007,98.18900000000001,0,0,7,0.0
+Methylcyclopentane,-3.3,-2.452,CC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A17E0>,2.1965000000000003,84.162,0,0,6,0.0
+Methyldymron,-3.35,-3.863,CN(C(=O)NC(C)(C)c1ccccc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1770>,3.767700000000003,268.36,3,12,20,0.6
+Methylparaben,-1.827,-2.441,COC(=O)c1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1700>,1.1788,152.149,1,6,11,0.5454545454545454
+methyltestosterone acetate,-5.284,-4.863,CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1690>,4.840100000000005,344.4950000000001,1,0,25,0.0
+methylthiouracil,-2.436,-0.547,Cc1cc(=O)[nH]c(=S)[nH]1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1620>,0.74091,142.18300000000002,0,6,9,0.6666666666666666
+Metolachlor,-2.73,-3.431,CCc1cccc(C)c1N(C(C)COC)C(=O)CCl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A15B0>,3.1641200000000014,283.7989999999999,6,6,19,0.3157894736842105
+Metolazone,-3.78,-3.777,CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1540>,2.7141199999999994,365.8420000000001,2,12,24,0.5
+Metolcarb,-1.803,-1.947,c1ccccc1(OC(=O)NC),<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A14D0>,1.4048,151.165,1,6,11,0.5454545454545454
+Metoxuron,-2.564,-2.683,COc1ccc(NC(=O)N(C)C)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1460>,2.4421,228.67899999999997,2,6,15,0.4
+Metranidazole,-1.26,-0.859,Cc1ncc(N(=O)=O)n1CCO ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A13F0>,0.09201999999999994,171.15599999999998,3,5,12,0.4166666666666667
+Metribuzin,-2.253,-2.324,CSc1nnc(c(=O)n1N)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1380>,0.3714999999999997,214.29399999999998,1,6,14,0.42857142857142855
+Metronidazole,-1.22,-0.859,Cc1ncc(N(=O)=O)n1CCO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1310>,0.09201999999999994,171.15599999999998,3,5,12,0.4166666666666667
+m-Fluorobromobenzene,-2.67,-3.467,Fc1cccc(Br)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A12A0>,2.5882000000000005,175.0,0,6,8,0.75
+Minoxidil,-1.989,-1.809,Nc1cc(nc(N)n1=O)N2CCCCC2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1230>,-0.1303000000000003,209.25299999999996,1,6,15,0.4
+Mirex,-6.8,-6.155,ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A11C0>,6.222999999999999,545.5460000000002,0,0,22,0.0
+m-Methylaniline,-0.85,-1.954,Cc1cccc(N)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1150>,1.5772199999999998,107.156,0,6,8,0.75
+m-Nitroaniline,-2.19,-1.936,Nc1cccc(c1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A10E0>,1.177,138.126,1,6,10,0.6
+m-Nitrophenol,-1.01,-2.318,Oc1cccc(c1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1070>,1.3003999999999998,139.10999999999999,1,6,10,0.6
+m-Nitrotoluene,-2.44,-2.64,Cc1cccc(c1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A1000>,1.90322,137.138,1,6,10,0.6
+Monolinuron,-2.57,-2.948,CON(C)C(=O)Nc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0F90>,2.365100000000001,214.652,2,6,14,0.42857142857142855
+Monotropitoside,-0.742,-1.493,COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0F20>,-2.884799999999998,446.40500000000003,6,6,31,0.1935483870967742
+Monuron,-2.89,-2.671,CN(C)C(=O)Nc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0EB0>,2.4335000000000004,198.653,1,6,13,0.46153846153846156
+Morin,-3.083,-2.731,Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0E40>,1.9879999999999995,302.23800000000006,1,16,22,0.7272727272727273
+m-Xylene ,-2.82,-3.035,Cc1cccc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0DD0>,2.30344,106.16799999999999,0,6,8,0.75
+"N,N-Diethylaniline",-3.03,-3.16,CCN(CC)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0D60>,2.532800000000001,149.237,3,6,11,0.5454545454545454
+"N,N-Dimethylacetamide",1.11,0.123,CN(C)C(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0CF0>,0.0944999999999998,87.12199999999999,0,0,6,0.0
+"N,N-Dimethylaniline",-1.92,-2.542,CN(C)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0C80>,1.7526,121.18299999999995,1,6,9,0.6666666666666666
+Naled,-2.28,-3.548,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0C10>,3.651200000000001,380.784,5,0,13,0.0
+Napropamide,-3.57,-4.088,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0BA0>,3.475500000000002,271.36,5,10,20,0.5
+Napthacene,-8.6,-5.568,c1ccc2cc3cc4ccccc4cc3cc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0B30>,5.146200000000003,228.29399999999998,0,18,18,1.0
+Napthalene,-3.6,-3.468,c1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0AC0>,2.839800000000001,128.17399999999995,0,10,10,1.0
+Neburon,-4.77,-4.157,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0A50>,4.257200000000004,275.179,4,6,17,0.35294117647058826
+Nerol,-2.46,-2.603,CC(C)=CCC/C(C)=C\CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A09E0>,2.6714000000000016,154.253,4,0,11,0.0
+N-Ethylaniline,-1.7,-2.389,CCNc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0970>,2.1184,121.18299999999995,2,6,9,0.6666666666666666
+nevirapine,-3.19,-3.397,Cc3ccnc4N(C1CC1)c2ncccc2C(=O)Nc34 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0900>,2.6512200000000004,266.30400000000003,1,12,20,0.6
+Niclosamide,-4.7,-5.032,Oc1ccc(Cl)cc1C(=O)Nc2ccc(cc2Cl)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0890>,3.8595000000000006,327.1230000000001,3,12,21,0.5714285714285714
+nicotinamide,0.61,-0.964,NC(=O)c1cccnc1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0820>,0.18050000000000016,122.12699999999997,1,6,9,0.6666666666666666
+nifedipine,-4.76,-4.248,COC(=O)C1=C(C)NC(=C(C1c2ccccc2N(=O)=O)C(=O)OC)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A07B0>,2.1756,346.33900000000017,4,6,25,0.24
+nifuroxime,-2.19,-1.843,ON=Cc1ccc(o1)N(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0740>,0.9959,156.09699999999998,2,5,11,0.45454545454545453
+Nimetazepam,-3.796,-3.557,CN2C(=O)CN=C(c1ccccc1)c3cc(ccc23)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A06D0>,2.4086000000000007,295.29800000000006,2,12,22,0.5454545454545454
+Niridazole,-3.22,-1.948,O=C1NCCN1c2ncc(s2)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0660>,0.5808999999999999,214.20600000000002,2,5,14,0.35714285714285715
+Nitramine,-3.561,-4.479,CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A05F0>,2.9502000000000006,322.243,5,6,22,0.2727272727272727
+Nitrapyrin,-3.76,-3.833,Clc1cccc(n1)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0580>,3.5617,230.909,0,6,11,0.5454545454545454
+Nitrazepam,-3.796,-3.473,O=C3CN=C(c1ccccc1)c2cc(ccc2N3)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0510>,2.3842999999999996,281.271,2,12,21,0.5714285714285714
+Nitrobenzene,-1.8,-2.288,O=N(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A04A0>,1.5948,123.11099999999996,1,6,9,0.6666666666666666
+Nitroethane,-0.22,-0.462,CCN(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0430>,0.2829999999999999,75.067,1,0,5,0.0
+Nitrofen,-5.46,-5.361,Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A03C0>,4.693900000000003,284.09799999999996,3,12,18,0.6666666666666666
+nitrofurantoin,-3.38,-1.243,O=C2CN(N=Cc1ccc(o1)N(=O)=O)C(=O)N2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0350>,0.07349999999999995,238.15899999999996,3,5,17,0.29411764705882354
+nitroglycerin,-2.22,-2.029,O=N(=O)OCC(CON(=O)=O)ON(=O)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A02E0>,-1.0200999999999996,227.08499999999998,8,0,15,0.0
+Nitromethane,0.26,-0.042,CN(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0270>,-0.10710000000000008,61.040000000000006,0,0,4,0.0
+N-Methylaniline ,-1.28,-2.097,CNc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0200>,1.7283,107.15599999999998,1,6,8,0.75
+Nonane,-5.88,-3.678,CCCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0190>,3.7569000000000026,128.259,6,0,9,0.0
+norbormide,-3.931,-4.238,OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0120>,4.289400000000002,511.5810000000002,5,24,39,0.6153846153846154
+Norea,-3.171,-2.47,CN(C)C(=O)NC1CC2CC1C3CCCC23,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A00B0>,2.0822999999999996,222.33199999999994,1,0,16,0.0
+norethindrone acetate,-4.8,-4.241,CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61A0040>,4.0633000000000035,340.4630000000001,1,0,25,0.0
+Norethisterone,-4.57,-2.669,CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FF40>,2.607400000000001,314.42500000000007,0,0,23,0.0
+norflurazon,-4.046,-4.029,CNc2cnn(c1cccc(c1)C(F)(F)F)c(=O)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FED0>,2.9464000000000006,303.67100000000005,2,12,20,0.6
+"O,P'-DDD",-6.51,-6.008,ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FE60>,5.929000000000003,320.04600000000005,3,12,18,0.6666666666666666
+o-Aminophenol,-0.72,-1.465,Nc1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FDF0>,0.9743999999999999,109.12799999999999,0,6,8,0.75
+o-Chloroaniline,-1.52,-2.392,Nc1ccccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FD80>,1.9222,127.574,0,6,8,0.75
+o-Chlorobromobenzene,-3.19,-3.84,Clc1ccccc1Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FD10>,3.1025,191.45499999999998,0,6,8,0.75
+o-Chloroiodobenzene,-3.54,-4.384,Clc1ccccc1I,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FCA0>,2.9446000000000003,238.45499999999998,0,6,8,0.75
+o-Chloronitrobenzene,-2.55,-2.775,Clc1ccccc1N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FC30>,2.2481999999999998,157.55599999999998,1,6,10,0.6
+Octane,-5.24,-3.324,CCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FBC0>,3.3668000000000022,114.232,5,0,8,0.0
+O-Ethyl carbamate,0.85,-0.218,CCOC(=O)N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FB50>,0.10160000000000013,89.09400000000001,1,0,6,0.0
+o-Fluorobromobenzene,-2.7,-3.467,Fc1ccccc1Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FAE0>,2.5882000000000005,175.0,0,6,8,0.75
+o-Hydroxybenzamide,-1.82,-1.942,NC(=O)c1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FA70>,0.49110000000000004,137.13799999999998,1,6,10,0.6
+o-Methoxyphenol,-1.96,-1.941,COc1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619FA00>,1.4008,124.13899999999997,1,6,9,0.6666666666666666
+o-Nitroaniline,-1.96,-2.277,Nc1ccccc1N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F990>,1.177,138.126,1,6,10,0.6
+o-Nitroanisole,-1.96,-2.346,COc1ccccc1N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F920>,1.6033999999999997,153.13699999999997,2,6,11,0.5454545454545454
+o-Nitrophenol,-1.74,-2.318,Oc1ccccc1N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F8B0>,1.3004000000000002,139.10999999999999,1,6,10,0.6
+o-Nitrotoluene,-2.33,-2.589,Cc1ccccc1N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F840>,1.9032200000000001,137.138,1,6,10,0.6
+oryzalin,-5.16,-3.784,CCCN(CCC)c1c(cc(cc1N(=O)=O)S(N)(=O)=O)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F7D0>,1.7768000000000002,346.3650000000001,8,6,23,0.2608695652173913
+osthole,-4.314,-4.076,c1cc2ccc(OC)c(CC=C(C)(C))c2oc1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F760>,3.3103000000000025,244.28999999999994,3,10,18,0.5555555555555556
+o-Toluidine,-2.21,-1.922,Cc1ccccc1N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F6F0>,1.57722,107.156,0,6,8,0.75
+Oxadiazon,-5.696,-5.265,CC(C)Oc1cc(c(Cl)cc1Cl)n2nc(oc2=O)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F680>,4.217000000000003,345.22600000000017,3,11,22,0.5
+Oxamyl,0.106,-0.908,CNC(=O)ON=C(SC)C(=O)N(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F610>,0.10709999999999997,219.266,1,0,14,0.0
+Oxazepam,-3.952,-3.517,OC3N=C(c1ccccc1)c2cc(Cl)ccc2NC3=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F5A0>,2.4478999999999997,286.718,1,12,20,0.6
+Oxycarboxin,-2.281,-2.169,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F530>,1.3016,267.306,2,6,18,0.3333333333333333
+o-Xylene ,-2.8,-3.004,Cc1ccccc1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F4C0>,2.30344,106.16799999999999,0,6,8,0.75
+oxyphenbutazone,-3.73,-3.739,CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F450>,3.493400000000002,324.38000000000005,5,12,24,0.5
+"p,p'-Biphenyldiamine ",-2.7,-2.613,Nc1ccc(cc1)c2ccc(N)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F3E0>,2.518,184.242,1,12,14,0.8571428571428571
+"P,P'-DDD",-7.2,-6.008,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F370>,5.929000000000003,320.04600000000005,3,12,18,0.6666666666666666
+"P,P'-DDE",-6.9,-6.553,ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F300>,6.187900000000003,318.0300000000001,2,12,18,0.6666666666666666
+p-Aminophenol,-0.8,-1.231,Nc1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F290>,0.9743999999999999,109.12799999999999,0,6,8,0.75
+parabanic acid,-0.4,1.091,O=C1NC(=O)C(=O)N1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F220>,-1.6476000000000002,114.05999999999999,0,0,8,0.0
+Parathion,-4.66,-3.949,CCOP(=S)(OCC)Oc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F1B0>,3.2711000000000023,291.26500000000004,7,6,18,0.3333333333333333
+p-benzidine,-2.7,-2.613,Nc1ccc(cc1)c2ccc(N)cc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F140>,2.518,184.242,1,12,14,0.8571428571428571
+p-Bromoacetanilide,-3.083,-3.012,CC(=O)Nc1ccc(Br)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F0D0>,2.4074999999999998,214.06199999999998,1,6,11,0.5454545454545454
+p-Bromoiodobenzene,-4.56,-4.754,Brc1ccc(I)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619F060>,3.053700000000001,282.90599999999995,0,6,8,0.75
+p-Chloroacetanilide,-2.843,-2.642,CC(=O)Nc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EFF0>,2.2984,169.611,1,6,11,0.5454545454545454
+p-Chloroaniline,-1.66,-2.392,Nc1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EF80>,1.9222,127.574,0,6,8,0.75
+p-Chlorobromobenzene,-3.63,-3.928,Clc1ccc(Br)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EF10>,3.102500000000001,191.45499999999998,0,6,8,0.75
+p-Chloroiodobenzene,-4.03,-4.384,Clc1ccc(I)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EEA0>,2.944600000000001,238.45499999999998,0,6,8,0.75
+p-Chloronitrobenzene,-2.92,-2.901,Clc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EE30>,2.2482000000000006,157.55599999999998,1,6,10,0.6
+p-Cresol,-0.73,-2.313,Cc1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EDC0>,1.7006199999999998,108.13999999999999,0,6,8,0.75
+Pebulate,-3.53,-3.131,CCCCN(CC)C(=O)SCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619ED50>,3.3716000000000026,203.35099999999997,6,0,13,0.0
+Pencycuron,-5.915,-5.126,Clc1ccc(CN(C2CCCC2)C(=O)Nc3ccccc3)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619ECE0>,5.316700000000004,328.84299999999996,4,12,23,0.5217391304347826
+Pentachlorobenzene,-5.65,-5.168,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EC70>,4.9536,250.339,0,6,11,0.5454545454545454
+Pentachloroethane,-2.6,-3.382,ClC(Cl)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EC00>,3.1603000000000003,202.29500000000002,0,0,7,0.0
+Pentachlorophenol,-4.28,-4.835,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EB90>,4.6592,266.33799999999997,0,6,12,0.5
+Pentamethylbenzene,-4.0,-3.993,Cc1cc(C)c(C)c(C)c1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EB20>,3.2287000000000017,148.249,0,6,11,0.5454545454545454
+Pentane,-3.18,-2.261,CCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EAB0>,2.1965000000000003,72.151,2,0,5,0.0
+Pentobarbital,-2.39,-2.312,O=C1NC(=O)NC(=O)C1(CC)C(C)CCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619EA40>,1.1849999999999992,226.27599999999995,4,0,16,0.0
+Pentyl acetate,-1.89,-1.833,CCCCCOC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E9D0>,1.7397,130.18699999999998,4,0,9,0.0
+Pentyl propanoate,-2.25,-1.899,CCCCC(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E960>,1.7397,130.18699999999998,4,0,9,0.0
+Pentylbenzene,-4.64,-3.899,CCCCCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E8F0>,3.4193000000000024,148.249,4,6,11,0.5454545454545454
+Pentylcyclopentane,-6.08,-3.869,CCCCCC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E880>,3.7569000000000026,140.26999999999998,4,0,10,0.0
+Perfluidone,-3.8,-4.945,Cc1cc(ccc1NS(=O)(=O)C(F)(F)F)S(=O)(=O)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E810>,3.0893200000000016,379.38100000000003,4,12,24,0.5
+Permethrin,-6.291,-7.129,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E7A0>,6.113300000000004,391.2940000000001,6,12,26,0.46153846153846156
+Perylene,-8.804,-6.007,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E730>,5.737200000000003,252.31599999999997,0,20,20,1.0
+p-Fluoroacetanilide,-1.78,-2.181,CC(=O)Nc1ccc(F)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E6C0>,1.7840999999999998,153.156,1,6,11,0.5454545454545454
+Phenacetin,-2.35,-2.342,CCOc1ccc(NC(=O)C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E650>,2.0437,179.219,3,6,13,0.46153846153846156
+Phenanthrene,-5.26,-4.518,c1ccc2c(c1)ccc3ccccc32,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E5E0>,3.993000000000002,178.23399999999998,0,14,14,1.0
+phenanthridine,-2.78,-3.713,c1ccc2c(c1)cnc3ccccc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E570>,3.388000000000001,179.22199999999998,0,14,14,1.0
+Phenetole,-2.33,-2.66,CCOc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E500>,2.0853,122.16699999999996,2,6,9,0.6666666666666666
+Phenmedipham,-4.805,-4.229,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E490>,3.784220000000002,300.314,3,12,22,0.5454545454545454
+phenobarbital,-2.322,-2.272,CCC1(C(=O)NC(=O)NC1=O)c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E420>,0.7003999999999997,232.239,2,6,17,0.35294117647058826
+Phenol,0.0,-1.991,c1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E3B0>,1.3922,94.11299999999999,0,6,7,0.8571428571428571
+phenolphthalein,-2.9,-4.59,Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E340>,3.560100000000002,318.32800000000003,2,18,24,0.75
+phenothrin,-5.24,-6.763,CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E2D0>,5.760500000000005,350.4580000000001,6,12,26,0.46153846153846156
+phenylbutazone,-3.81,-4.076,CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E260>,3.7878000000000025,308.38100000000003,5,12,23,0.5217391304347826
+Phenylhydrazine,0.07,-1.866,NNc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E1F0>,0.9722000000000002,108.14399999999998,1,6,8,0.75
+Phenylmethanol,-0.4,-1.699,OCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E180>,1.1789,108.13999999999997,1,6,8,0.75
+Phenylthiourea,-1.77,-1.701,NC(=S)Nc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E110>,1.3421,152.22199999999998,1,6,10,0.6
+Phenytoin,-4.097,-3.057,O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E0A0>,1.7695999999999998,252.27300000000002,2,12,19,0.631578947368421
+Phorate,-4.11,-3.747,CCOP(=S)(OCC)SCSCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619E030>,3.727700000000003,260.38599999999997,8,0,13,0.0
+Phosalone,-5.233,-5.024,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc12,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DFC0>,4.236100000000003,367.8160000000001,7,9,21,0.42857142857142855
+Phoxim,-4.862,-4.557,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DF50>,3.2283800000000014,298.304,7,6,19,0.3157894736842105
+phthalamide,-2.932,-0.636,c1cC2C(=O)NC(=O)C2cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DEE0>,0.0011999999999999234,149.149,0,0,11,0.0
+phthalimide,-2.61,-1.882,O=C1NC(=O)c2ccccc12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DE70>,0.5702,147.13299999999998,0,6,11,0.5454545454545454
+Phthalonitrile,-2.38,-1.717,N#Cc1ccccc1C#N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DE00>,1.4299600000000001,128.13399999999996,0,6,10,0.6
+p-Hydroxyacetanilide,-1.03,-1.495,CC(=O)Nc1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DD90>,1.3505999999999998,151.165,1,6,11,0.5454545454545454
+p-Hydroxybenzaldehyde ,-0.96,-2.003,Oc1ccc(C=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DD20>,1.2047,122.12299999999998,1,6,9,0.6666666666666666
+Picene,-7.87,-6.618,c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc43,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DCB0>,6.299400000000004,278.354,0,22,22,1.0
+Piperine,-3.46,-3.659,O=C(C=CC=Cc2ccc1OCOc1c2)N3CCCCC3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DC40>,2.997200000000001,285.343,3,6,21,0.2857142857142857
+piperonal,-1.63,-2.033,O=Cc2ccc1OCOc1c2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DBD0>,1.2278,150.13299999999998,1,6,11,0.5454545454545454
+Piperophos,-4.15,-4.637,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DB60>,4.198300000000004,353.4900000000001,9,0,21,0.0
+Pirimicarb,-1.95,-2.34,CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DAF0>,1.2198399999999998,238.29099999999997,2,6,17,0.35294117647058826
+piroxicam,-4.16,-3.473,CN2C(=C(O)c1ccccc1S2(=O)=O)C(=O)Nc3ccccn3 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DA80>,1.5810000000000002,331.353,2,12,23,0.5217391304347826
+p-Methoxybenzaldehyde,-1.49,-2.252,COc1ccc(C=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619DA10>,1.5076999999999998,136.14999999999998,2,6,10,0.6
+p-Methylaniline ,-1.21,-1.954,Cc1ccc(N)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D9A0>,1.5772199999999998,107.156,0,6,8,0.75
+p-Nitroaniline,-2.37,-1.936,Nc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D930>,1.177,138.126,1,6,10,0.6
+p-Nitroanisole,-2.41,-2.522,COc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D8C0>,1.6033999999999997,153.13699999999997,2,6,11,0.5454545454545454
+p-Nitrophenol,-0.74,-2.318,Oc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D850>,1.3003999999999998,139.10999999999999,1,6,10,0.6
+p-Nitrotoluene,-2.49,-2.64,Cc1ccc(cc1)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D7E0>,1.90322,137.138,1,6,10,0.6
+p-Phenylphenol,-3.48,-3.701,Oc1ccc(cc1)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D770>,3.0592000000000015,170.211,1,12,13,0.9230769230769231
+Prasterone,-4.12,-3.564,CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D700>,3.8792000000000026,288.43100000000004,0,0,21,0.0
+Prednisolone,-3.18,-2.974,CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C2CCC1(O)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D690>,1.5575999999999999,360.4500000000002,2,0,26,0.0
+prednisolone acetate,-4.37,-3.507,CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)C=CC1(C)C2C(O)CC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D620>,2.1284,402.48700000000014,3,0,29,0.0
+pregnenolone,-4.65,-4.342,CC(=O)C3CCC4C2CC=C1CC(O)CCC1(C)C2CCC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D5B0>,4.515300000000004,316.48500000000007,1,0,23,0.0
+Primidone,-2.64,-1.897,CCC1(C(=O)NCNC1=O)c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D540>,0.5378999999999994,218.256,2,6,16,0.375
+probarbital,-2.21,-1.603,CCC1(C(C)C)C(=O)NC(=O)NC1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D4D0>,0.40479999999999994,198.22199999999998,2,0,14,0.0
+Procymidone,-4.8,-3.464,CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D460>,3.2829000000000024,284.142,1,6,18,0.3333333333333333
+Progesterone,-4.42,-4.17,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D3F0>,4.723500000000005,314.46900000000005,1,0,23,0.0
+Prometon,-2.478,-3.448,COc1nc(NC(C)C)nc(NC(C)C)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D380>,1.5208,225.296,5,6,16,0.375
+Prometryn,-4.1,-3.693,CSc1nc(NC(C)C)nc(NC(C)C)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D310>,2.2340999999999998,241.364,5,6,16,0.375
+propachlor,-2.48,-3.018,CC(C)N(C(=O)CCl)c1ccccc1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D2A0>,2.666800000000001,211.69200000000004,3,6,14,0.42857142857142855
+Propane,-1.94,-1.553,CCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D230>,1.4163,44.096999999999994,0,0,3,0.0
+Propanil,-3.0,-3.644,CCC(=O)Nc1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D1C0>,3.3419000000000016,218.08299999999997,2,6,13,0.46153846153846156
+Propazine,-4.43,-3.329,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D150>,2.1655999999999995,229.71500000000003,4,6,15,0.4
+Propetamphos,-3.408,-2.826,CCNP(=S)(OC)OC(=CC(=O)OC(C)C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D0E0>,2.3388,281.314,7,0,17,0.0
+Propiconazole,-3.493,-4.603,CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D070>,3.653400000000003,342.2260000000001,5,11,22,0.5
+Propionaldehyde,0.58,-0.394,CCC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619D000>,0.5952999999999999,58.08,1,0,4,0.0
+Propionitrile,0.28,-0.269,CCC#N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CF90>,0.91998,55.07999999999999,0,0,4,0.0
+Propoxur,-2.05,-2.409,CNC(=O)Oc1ccccc1OC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CF20>,2.192,209.24499999999998,3,6,15,0.4
+Propyl acetate,-0.72,-1.125,CCCOC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CEB0>,0.9595,102.13299999999998,2,0,7,0.0
+Propyl butyrate,-1.92,-1.191,CCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CE40>,0.9595,102.13299999999998,2,0,7,0.0
+Propyl formate,-0.49,-0.757,CCCOC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CDD0>,0.5694,88.10599999999998,3,0,6,0.0
+Propyl propanoate,-1.34,-1.545,CCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CD60>,1.3496000000000001,116.15999999999998,3,0,8,0.0
+Propylbenzene ,-3.37,-3.281,CCCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CCF0>,2.639100000000001,120.19499999999995,2,6,9,0.6666666666666666
+Propylcyclopentane,-4.74,-3.16,CCCC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CC80>,2.976700000000002,112.21600000000001,2,0,8,0.0
+Propylene,-1.08,-1.235,CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CC10>,1.1923000000000001,42.080999999999996,0,0,3,0.0
+Propylisopropylether,-1.34,-1.354,CCCOC(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CBA0>,1.8214000000000001,102.17699999999998,3,0,7,0.0
+Propyne,-0.41,-0.672,CC#C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CB30>,0.6395,40.065000000000005,0,0,3,0.0
+p-t-Butylphenol,-2.41,-3.192,CC(C)(C)c1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CAC0>,2.689700000000001,150.22099999999998,0,6,11,0.5454545454545454
+Pteridine,0.02,-0.906,c2cnc1ncncc1n2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619CA50>,0.41979999999999984,132.12599999999998,0,10,10,1.0
+p-terphenyl,-7.11,-5.741,c1ccc(cc1)c2ccc(cc2)c3ccccc3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C9E0>,5.0206000000000035,230.31,2,18,18,1.0
+p-Toluenesulfonamide ,-1.74,-1.815,Cc1ccc(cc1)S(=O)(=O)N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C970>,0.6424200000000001,171.22099999999998,1,6,11,0.5454545454545454
+p-Xylene ,-2.77,-3.035,Cc1ccc(C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C900>,2.30344,106.16799999999999,0,6,8,0.75
+pyracarbolid,-2.56,-2.83,CC1=C(CCCO1)C(=O)Nc2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C890>,2.709500000000001,217.26800000000003,2,6,16,0.375
+Pyrazinamide,-0.667,-0.674,NC(=O)c1cnccn1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C820>,-0.4245000000000001,123.11499999999998,1,6,9,0.6666666666666666
+Pyrazon,-2.878,-2.603,Nc2cnn(c1ccccc1)c(=O)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C7B0>,1.4681,221.647,1,12,15,0.8
+Pyrene,-6.176,-4.957,c1cc2ccc3cccc4ccc(c1)c2c34,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C740>,4.584000000000002,202.25599999999997,0,16,16,1.0
+Pyridazine,1.1,-0.619,c1ccnnc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C6D0>,0.4765999999999999,80.08999999999999,0,6,6,1.0
+Pyridine,0.76,-1.481,c1ccncc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C660>,1.0816,79.10199999999998,0,6,6,1.0
+Pyrimidine,1.1,-0.884,c1cncnc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C5F0>,0.4765999999999999,80.08999999999999,0,6,6,1.0
+Pyrolan,-2.09,-3.141,CN(C)C(=O)Oc1cc(C)nn1c2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C580>,2.2411200000000004,245.282,2,11,18,0.6111111111111112
+Quinethazone,-3.29,-2.184,CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C510>,0.8788,289.7440000000001,2,6,18,0.3333333333333333
+Quinoline,-1.3,-2.663,c1ccc2ncccc2c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C4A0>,2.2348,129.16199999999998,0,10,10,1.0
+Quinonamid,-5.03,-3.988,ClC(Cl)CC(=O)NC2=C(Cl)C(=O)c1ccccc1C2=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C430>,2.8260000000000005,332.57000000000005,3,6,20,0.3
+Quintozene,-5.82,-5.098,Clc1c(Cl)c(Cl)c(N(=O)=O)c(Cl)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C3C0>,4.8618,295.336,1,6,14,0.42857142857142855
+Raffinose,-0.41,0.496,OCC1OC(CO)(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C350>,-7.571399999999989,504.43800000000005,8,0,34,0.0
+Reposal,-2.696,-2.781,CCC1(C(=O)NC(=O)NC1=O)C2=CCC3CCC2C3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C2E0>,1.4951999999999999,262.30899999999997,2,0,19,0.0
+Reverse Transcriptase inhibitor 1,-2.62,-2.794,CCN2c1ncccc1N(C)C(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C270>,2.2245999999999997,254.29299999999998,1,12,19,0.631578947368421
+rhodanine,-1.77,-0.396,C1SC(=S)NC1(=O),<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C200>,0.13429999999999997,133.197,0,0,7,0.0
+Riboflavin,-3.685,-1.865,Cc3cc2nc1c(=O)[nH]c(=O)nc1n(CC(O)C(O)C(O)CO)c2cc3C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C190>,-1.7235599999999989,376.36900000000014,5,14,27,0.5185185185185185
+Risocaine,-2.452,-2.709,CCCOC(=O)c1ccc(N)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C120>,1.8356,179.21899999999997,3,6,13,0.46153846153846156
+Ronnel,-5.72,-5.247,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C0B0>,4.542900000000002,321.549,4,6,16,0.375
+Rotenone,-4.42,-5.246,COc5cc4OCC3Oc2c1CC(Oc1ccc2C(=O)C3c4cc5OC)C(C)=C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619C040>,3.7033000000000023,394.42300000000023,3,12,29,0.41379310344827586
+Rovral,-4.376,-4.004,CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BF40>,2.880000000000001,330.17100000000005,2,6,21,0.2857142857142857
+RTI 10,-3.672,-2.771,O2c1ccccc1N(C)C(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BED0>,2.4639000000000006,226.235,0,12,17,0.7058823529411765
+RTI 11,-3.928,-3.125,O2c1ccc(N)cc1N(C)C(=O)c3cc(C)ccc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BE60>,2.9595200000000013,254.28900000000002,0,12,19,0.631578947368421
+RTI 12,-4.114,-3.446,CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BDF0>,2.878000000000001,288.73800000000006,1,12,20,0.6
+RTI 13,-4.207,-4.45,CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BD80>,3.5275200000000018,322.29,1,12,23,0.5217391304347826
+RTI 15,-4.554,-3.891,CCN2c1nc(C)cc(C)c1NC(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BD10>,2.817140000000001,268.32,1,12,20,0.6
+RTI 16,-4.634,-3.411,CCN2c1ncccc1N(C)C(=S)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BCA0>,2.759900000000001,270.361,1,12,19,0.631578947368421
+RTI 17,-4.706,-4.227,CCN2c1ccccc1N(C)C(=S)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BC30>,3.3649000000000022,269.373,1,12,19,0.631578947368421
+RTI 19,-4.749,-4.007,CCN2c1ccccc1N(C)C(=O)c3ccccc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BBC0>,3.4346000000000023,252.31699999999995,1,12,19,0.631578947368421
+RTI 2,-2.86,-3.125,CCN2c1ncccc1N(CC)C(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BB50>,2.614700000000001,268.32,2,12,20,0.6
+RTI 20,-4.799,-3.663,C2c1ccccc1N(CCF)C(=O)c3ccccc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BAE0>,3.2071000000000023,255.29199999999997,2,12,19,0.631578947368421
+RTI 22,-4.871,-4.408,CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BA70>,3.1797200000000014,296.374,2,12,22,0.5454545454545454
+RTI 23,-5.153,-4.228,CCN2c1cc(OC)cc(C)c1NC(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619BA00>,3.122320000000001,283.331,2,12,21,0.5714285714285714
+RTI 24,-5.36,-4.423,CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B990>,3.458700000000001,273.723,1,12,19,0.631578947368421
+RTI 3,-3.043,-3.049,O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B920>,2.35452,255.277,0,12,19,0.631578947368421
+RTI 5,-3.324,-3.471,CCN2c1ccccc1N(C)C(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B8B0>,2.829600000000001,253.30499999999995,1,12,19,0.631578947368421
+RTI 6,-3.36,-3.335,CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B840>,1.6287999999999996,313.36100000000005,4,12,23,0.5217391304347826
+RTI 7,-3.535,-3.663,C2c1ccccc1N(CCF)C(=O)c3ccccc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B7D0>,3.2071000000000023,255.29199999999997,2,12,19,0.631578947368421
+RTI 9,-3.68,-3.784,O2c1ccccc1N(CC)C(=O)c3ccccc23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B760>,3.4590000000000023,239.274,1,12,18,0.6666666666666666
+Salicin,-0.85,-0.975,OCC2OC(Oc1ccccc1CO)C(O)C(O)C2O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B6F0>,-1.6424000000000003,286.28,4,6,20,0.3
+Salicylamide,-1.836,-1.942,NC(=O)c1ccccc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B680>,0.49110000000000004,137.13799999999998,1,6,10,0.6
+salicylanilide,-3.59,-3.782,c1ccccc1NC(=O)c2c(O)cccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B610>,2.6445,213.23600000000002,2,12,16,0.75
+Santonin,-3.09,-2.43,CC3C2CCC1(C)C=CC(=O)C(=C1C2OC3=O)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B5A0>,2.419600000000001,246.30599999999995,0,0,18,0.0
+Secobarbital,-2.356,-2.415,O=C1NC(=O)NC(=O)C1(C(C)CCC)CC=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B530>,1.3510999999999993,238.28699999999995,5,0,17,0.0
+Siduron,-4.11,-3.779,CC1CCCCC1NC(=O)Nc2ccccc2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B4C0>,3.386800000000001,232.32700000000003,2,6,17,0.35294117647058826
+simazine,-4.55,-2.811,CCNc1nc(Cl)nc(NCC)n1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B450>,1.3885999999999998,201.661,4,6,13,0.46153846153846156
+Simetryn,-2.676,-2.689,CSc1nc(nc(n1)N(C)C)N(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B3E0>,0.7254999999999998,213.31,3,6,14,0.42857142857142855
+Sorbitol,1.09,0.647,OCC(O)C(O)C(O)C(O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B370>,-3.5854000000000004,182.172,5,0,12,0.0
+"Sparsomycin (3,8mg/ml)",-1.981,-1.57,CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B300>,-1.068879999999999,361.4450000000001,8,6,23,0.2608695652173913
+Spironolactone,-4.173,-3.842,CC(=O)SC4CC1=CC(=O)CCC1(C)C5CCC2(C)C(CCC23CCC(=O)O3)C45,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B290>,4.852300000000005,416.58300000000025,1,0,29,0.0
+stadacaine,-3.84,-5.128,CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B220>,3.8884000000000034,293.40700000000004,9,6,21,0.2857142857142857
+Stanolone,-4.743,-3.882,CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B1B0>,3.9591000000000034,290.44699999999995,0,0,21,0.0
+Stirofos,-4.522,-4.32,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B140>,5.6015000000000015,365.96400000000006,5,6,19,0.3157894736842105
+Styrene,-2.82,-2.85,C=Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B0D0>,2.3296,104.15199999999997,1,6,8,0.75
+styrene oxide,-1.6,-1.826,C1OC1c2ccccc2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619B060>,1.7579,120.15099999999995,1,6,9,0.6666666666666666
+Succinimide,0.3,0.282,O=C1CCC(=O)N1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AFF0>,-0.577,99.089,0,0,7,0.0
+Sucrose,0.79,0.31,OCC2OC(OC1(CO)OC(CO)C(O)C1O)C(O)C(O)C2O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AF80>,-5.395599999999993,342.297,5,0,23,0.0
+sulfaguanidine,-1.99,-0.706,NC(=N)NS(=O)(=O)c1ccc(N)cc1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AF10>,-0.5594299999999999,214.25,2,6,14,0.42857142857142855
+Sulfallate,-3.39,-3.254,CCN(CC)C(=S)SCC(Cl)=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AEA0>,3.0988000000000016,223.79399999999998,4,0,12,0.0
+Sulfanilamide,-1.34,-0.954,Nc1ccc(cc1)S(N)(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AE30>,-0.08379999999999999,172.20899999999997,1,6,11,0.5454545454545454
+Talbutal,-2.016,-2.06,CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619ADC0>,0.9609999999999999,224.26,4,0,16,0.0
+t-Butylbenzene ,-3.66,-3.554,CC(C)(C)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AD50>,2.9841000000000015,134.22199999999998,0,6,10,0.6
+t-Crotonaldehyde,0.32,-0.604,C/C=C/C=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619ACE0>,0.7614000000000001,70.09100000000001,1,0,5,0.0
+TEFLUBENZURON,-7.28,-5.462,Fc1cccc(F)c1C(=O)NC(=O)Nc2cc(Cl)c(F)c(Cl)c2F ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AC70>,4.511700000000001,381.1120000000001,2,12,24,0.5
+Terbacil,-2.484,-3.033,Cc1[nH]c(=O)n(c(=O)c1Cl)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AC00>,1.2534200000000002,216.66799999999998,0,6,14,0.42857142857142855
+Terbufos,-4.755,-4.367,CCOP(=S)(OCC)SCSC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AB90>,4.506300000000004,288.44,7,0,15,0.0
+Terbumeton,-3.239,-3.505,CCNc1nc(NC(C)(C)C)nc(OC)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AB20>,1.5223999999999998,225.296,4,6,16,0.375
+Terbutryn,-4.0,-3.75,CCNc1nc(NC(C)(C)C)nc(SC)n1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AAB0>,2.2356999999999996,241.364,4,6,16,0.375
+Testosterone,-4.02,-3.659,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619AA40>,3.879200000000003,288.431,0,0,21,0.0
+testosterone acetate,-5.184,-4.449,CC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A9D0>,4.450000000000004,330.4680000000001,1,0,24,0.0
+testosterone propionate,-5.37,-4.87,CCC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A960>,4.840100000000005,344.4950000000001,2,0,25,0.0
+Tetrabromomethane,-3.14,-4.063,BrC(Br)(Br)Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A8F0>,3.1773000000000002,331.62699999999995,0,0,5,0.0
+Tetrachloroethylene,-2.54,-3.063,ClC(=C(Cl)Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A880>,3.0682,165.834,0,0,6,0.0
+tetrachloroguaiacol,-4.02,-4.299,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A810>,4.014400000000001,261.919,1,6,13,0.46153846153846156
+Tetrachloromethane,-2.31,-2.607,ClC(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A7A0>,2.5529,153.823,0,0,5,0.0
+Tetradecane,-7.96,-5.45,CCCCCCCCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A730>,5.707400000000006,198.39399999999995,11,0,14,0.0
+Tetrafluthrin,-7.321,-6.339,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A6C0>,5.551820000000002,418.7360000000001,4,6,27,0.2222222222222222
+Tetrahydrofurane ,0.49,-0.62,C1CCOC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A650>,0.7968,72.107,0,0,5,0.0
+Tetrahydropyran ,-0.03,-0.978,C1CCOCC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A5E0>,1.1869,86.134,0,0,6,0.0
+tetramethylurea,0.94,-0.495,CN(C)C(=O)N(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A570>,0.22960000000000003,116.16399999999999,0,0,8,0.0
+Thalidomide,-2.676,-1.944,O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A500>,0.08779999999999949,258.233,1,6,19,0.3157894736842105
+theobromine,-2.523,-1.05,Cn1cnc2n(C)c(=O)[nH]c(=O)c12 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A490>,-1.0397,180.16699999999997,0,9,13,0.6923076923076923
+Theophylline,-1.39,-1.452,Cn1c(=O)n(C)c2nc[nH]c2c1=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A420>,-1.039700000000001,180.16699999999997,0,9,13,0.6923076923076923
+Thiamphenicol,-2.154,-1.936,CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A3B0>,0.40430000000000027,356.2270000000001,6,6,21,0.2857142857142857
+thiamylal,-3.46,-3.063,CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A340>,1.5159999999999998,254.35500000000002,5,0,17,0.0
+thioanisole,-2.39,-2.87,c1ccccc1SC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A2D0>,2.408500000000001,124.208,1,6,8,0.75
+thiofanox,-1.62,-2.7,CNC(=O)ON=C(CSC)C(C)(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A260>,2.1075,218.32199999999997,3,0,14,0.0
+Thiometon,-3.091,-3.323,CCSCCSP(=S)(OC)OC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A1F0>,2.990000000000001,246.35899999999998,7,0,12,0.0
+thiopental,-3.36,-2.96,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A180>,1.3498999999999999,242.34400000000002,4,0,16,0.0
+Thiophene,-1.33,-2.232,c1ccsc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A110>,1.7480999999999998,84.14299999999999,0,5,5,1.0
+Thiophenol ,-2.12,-2.758,Sc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A0A0>,1.9752999999999996,110.18099999999997,0,6,7,0.8571428571428571
+thiouracil,-2.273,-0.992,Sc1nccc(=O)[nH]1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB619A030>,0.05860000000000004,128.15599999999998,0,6,8,0.75
+Thiourea,0.32,0.329,NC(=S)N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199FC0>,-0.8113000000000001,76.12400000000001,0,0,4,0.0
+Thiram,-3.9,-2.444,CN(C)C(=S)SSC(=S)N(C)C ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199F50>,2.0608,240.44400000000002,0,0,12,0.0
+thymine,-1.506,-0.78,Cc1c[nH]c(=O)[nH]c1=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199EE0>,-0.6283800000000002,126.115,0,6,9,0.6666666666666666
+Thymol,-2.22,-3.129,CC(C)c1ccc(C)cc1O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199E70>,2.824020000000002,150.22099999999998,1,6,11,0.5454545454545454
+Toluene ,-2.21,-2.713,Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199E00>,1.99502,92.14099999999999,0,6,7,0.8571428571428571
+t-Pentylbenzene,-4.15,-3.867,CC(C)(C)Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199D90>,3.2752000000000017,148.249,1,6,11,0.5454545454545454
+"trans-1,4-Dimethylcyclohexane",-4.47,-3.305,C/C1CCC(\C)CC1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199D20>,2.832600000000001,112.216,0,0,8,0.0
+trans-2-Heptene ,-3.82,-2.784,CCCC/C=C/C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199CB0>,2.752700000000001,98.18899999999998,3,0,7,0.0
+trans-2-Pentene ,-2.54,-2.076,CC/C=C/C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199C40>,1.9725,70.135,1,0,5,0.0
+Triadimefon,-3.61,-4.132,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199BD0>,3.1243000000000016,293.754,4,11,20,0.55
+Triallate,-4.88,-4.578,CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199B60>,4.843900000000003,304.66999999999996,4,0,16,0.0
+Triamcinolone,-3.68,-2.734,CC34CC(O)C1(F)C(CCC2=CC(=O)C=CC12C)C3CC(O)C4(O)C(=O)CO,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199AF0>,0.6204999999999998,394.43900000000014,2,0,28,0.0
+triamcinolone acetonide,-4.31,-3.928,CC5(C)OC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O5)C(=O)CO ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199A80>,2.4188000000000005,434.50400000000025,2,0,31,0.0
+triamcinolone diacetate,-4.13,-3.876,CC(=O)OCC(=O)C3(O)C(CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)OC(C)=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199A10>,1.7620999999999996,478.51300000000026,4,0,34,0.0
+Triamterene,-2.404,-3.051,Nc3nc(N)c2nc(c1ccccc1)c(N)nc2n3,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61999A0>,0.8334000000000001,253.26900000000003,1,16,19,0.8421052631578947
+Triazolam,-4.09,-3.948,Cc3nnc4CN=C(c1ccccc1Cl)c2cc(Cl)ccc2n34,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199930>,4.233520000000003,343.2170000000001,1,17,23,0.7391304347826086
+Tribromomethane,-1.91,-2.904,BrC(Br)Br,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61998C0>,2.4547,252.731,0,0,4,0.0
+Trichlomethiazide,-2.68,-2.98,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199850>,0.8210000000000011,380.66200000000003,2,6,20,0.3
+Trichlorfon,-0.22,-1.866,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61997E0>,2.1609000000000003,257.437,3,0,12,0.0
+trichlormethiazide,-2.68,-2.98,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199770>,0.8210000000000011,380.66200000000003,2,6,20,0.3
+Trichloroacetonitrile,-2.168,-2.019,ClC(Cl)(Cl)C#N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199700>,1.88018,144.388,0,0,6,0.0
+Trichloroethylene,-1.96,-2.312,ClC=C(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199690>,2.5017000000000005,131.389,0,0,5,0.0
+Trichloromethane,-1.17,-1.812,ClC(Cl)Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199620>,1.9864,119.37800000000001,0,0,4,0.0
+Trichloronate,-5.752,-5.225,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61995B0>,5.391500000000002,333.60400000000004,5,6,17,0.35294117647058826
+Triclosan,-4.46,-5.645,Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199540>,5.144700000000002,289.54499999999996,2,12,17,0.7058823529411765
+Tricresyl phosphate,-6.01,-6.39,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc3ccccc3C)cc1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61994D0>,6.256760000000005,368.3690000000001,6,18,26,0.6923076923076923
+Tricyclazole,-2.07,-2.868,Cc2cccc3sc1nncn1c23 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199460>,2.25242,189.24300000000002,0,12,13,0.9230769230769231
+Trietazine,-4.06,-3.233,CCNc1nc(Cl)nc(n1)N(CC)CC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61993F0>,1.803,229.71499999999997,5,6,15,0.4
+Triethyl phosphate,0.43,-0.953,CCOP(=O)(OCC)OCC,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199380>,2.2039999999999997,182.15599999999998,6,0,11,0.0
+Trifluralin,-5.68,-5.205,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199310>,4.148200000000004,335.28200000000004,7,6,23,0.2608695652173913
+triforine,-4.19,-3.715,ClC(Cl)(Cl)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61992A0>,2.431,430.9340000000001,6,0,22,0.0
+Trimazosin,-3.638,-3.958,COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199230>,1.2672999999999996,435.48100000000034,6,10,31,0.3225806451612903
+Triphenylene,-6.726,-5.568,c1ccc2c(c1)c3ccccc3c4ccccc24,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61991C0>,5.146200000000003,228.29399999999998,0,18,18,1.0
+tubercidin,-1.95,-0.892,Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199150>,-1.3750000000000007,266.257,2,9,19,0.47368421052631576
+uracil,-1.488,-0.441,O=c1cc[nH]c(=O)[nH]1 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB61990E0>,-0.9368000000000001,112.088,0,6,8,0.75
+Urea,0.96,0.832,NC(=O)N,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199070>,-0.9762,60.056,0,0,4,0.0
+uric acid,-3.93,-0.541,O=c2[nH]c(=O)c1[nH]c(=O)[nH]c1[nH]2 ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6199000>,-1.7672000000000003,168.112,0,9,12,0.75
+Valeraldehyde,-0.85,-1.103,CCCCC=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6198F90>,1.3755,86.13399999999999,3,0,6,0.0
+vamidothion,1.144,-1.446,CNC(=O)C(C)SCCSP(=O)(OC)(OC),<rdkit.Chem.rdchem.Mol object at 0x0000021AB6198F20>,1.9881999999999997,287.34299999999996,8,0,16,0.0
+Vinclozolin,-4.925,-4.377,CC1(OC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2)C=C,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6198EB0>,3.4213000000000022,286.11400000000003,2,6,18,0.3333333333333333
+Warfarin,-3.893,-3.913,CC(=O)CC(c1ccccc1)c3c(O)c2ccccc2oc3=O ,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6198E40>,3.609600000000003,308.3330000000001,4,16,23,0.6956521739130435
+Xipamide,-3.79,-3.642,Cc1cccc(C)c1NC(=O)c2cc(c(Cl)cc2O)S(N)(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6198DD0>,2.5621400000000008,354.8150000000001,3,12,23,0.5217391304347826
+XMC,-2.581,-2.688,CNC(=O)Oc1cc(C)cc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x0000021AB6198D60>,2.02164,179.219,1,6,13,0.46153846153846156
